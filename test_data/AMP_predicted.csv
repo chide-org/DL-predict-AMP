@@ -1,0 +1,362 @@
+ID,COMPLEXITY,NAME,N TERMINUS,SEQUENCE,C TERMINUS,SYNTHESIS TYPE,TARGET GROUP,TARGET OBJECT,predict
+54,Monomer,Halocidin subunit B,,ALLHHGLNCAKGVLA,AMD,Ribosomal,,,0.0151
+79,Monomer,Dermaseptin S4 (1-15)AMD[M4K],,ALWKTLLKKVLKAAA,AMD,Synthetic,,,0.9993
+108,Monomer,Dermaseptin S4 (1-13)AMD[M4K],,ALWKTLLKKVLKA,AMD,Synthetic,,,0.9994
+144,Monomer,LL-37 (17-29),,FKRIVQRIKDFLR,,Synthetic,,,0.9982
+145,Monomer,,,RLFDKIRQVIRKF,,Synthetic,,,0.9272
+146,Monomer,LL-37 fragment KR-12,,KRIVQRIKDFLR,,Synthetic,,,0.9995
+159,Monomer,Cathelicidin-6 (1-15),,GRFKRFRKKFKKLFK,,Synthetic,,,0.9592
+160,Monomer,Tritrpticin,,VRRFPWWWPFLRR,,Ribosomal,,,0.9999
+197,Monomer,BP100,,KKLFKKILKYL,AMD,Synthetic,,,0.9966
+256,Monomer,"Amphipathic-1l, K6L9",,LKLLKKLLKKLLKLL,AMD,Synthetic,,,0.9998
+260,Monomer,(RW)3,,RWRWRW,AMD,Synthetic,,,0.9984
+261,Monomer,RW4,,RWRWRWRW,AMD,Synthetic,,,1.0
+262,Monomer,[RW]5,,RWRWRWRWRW,AMD,Synthetic,,,1.0
+273,Monomer,Lactoferricin (21-31),,FQWQRNMRKVR,,Synthetic,,,0.9129
+447,Monomer,"Cecropin (1-7)+Melittin (2-9), CAMEL",,KWKLFKKIGAVLKVL,AMD,Synthetic,,,0.9998
+488,Monomer,dhvar4,,KRLFKKLLFSLRKY,,Synthetic,,,0.9826
+491,Monomer,"Cathelicidin-4, Indolicidin",,ILPWKWPWWPWRR,AMD,Ribosomal,,,1.0
+492,Monomer,CP11CN,,ILKKWPWWPWRRK,AMD,Synthetic,,,1.0
+493,Monomer,"Cathelicidin-4/Indolicidin [P3A][P7A][P10A], CP10A",,ILAWKWAWWAWRR,AMD,Synthetic,,,1.0
+494,Monomer,"Bac2A-NH2, Cathelicidin-1 [C3,11A]-NH2",,RLARIVVIRVAR,AMD,Synthetic,,,0.9989
+496,Monomer,Dhvar2,,KRLFKELLFSLRKY,,Synthetic,,,0.0777
+497,Monomer,Dhvar3,,KRLFKKLKFSLRKY,,Synthetic,,,0.9997
+498,Monomer,dhvar5,,LLLFLLKKRKKRKY,,Synthetic,,,0.9995
+506,Monomer,Temporin-A,,FLPLIGRVLSGIL,AMD,Ribosomal,,,0.9796
+513,Monomer,"c-RW, Com5",,RRWWRF,,Synthetic,,,0.9952
+517,Monomer,c-RW2,,RRWWFR,,Synthetic,,,0.9971
+519,Monomer,c-RW3,,RRWFWR,,Synthetic,,,0.995
+520,Monomer,,,RRGWVLALVLRYGRR,,Synthetic,,,0.9764
+522,Monomer,*VAYR*,,RRGWVLALYLRYGRR,,Synthetic,,,0.9686
+524,Monomer,,,RRGWALRLVLAY,,Synthetic,,,0.9816
+526,Monomer,*VVRG*,,WVLVLRLGY,,Synthetic,,,0.1219
+558,Monomer,"Histatin 5 (4-15), P-113",,AKRHHGYKRKFH,,Synthetic,,,0.9237
+563,Monomer,LFcin 17-30,,FKCRRWQWRMKKLG,,Synthetic,,,0.9997
+614,Monomer,Dermaseptin S4 (1-12),,ALWMTLLKKVLK,,Synthetic,,,0.9984
+615,Monomer,Dermaseptin S4 (5-16),,TLLKKVLKAAAK,,Synthetic,,,0.9991
+620,Monomer,Dermaseptin S4 (1-10)AMD[M4K],,ALWKTLLKKV,AMD,Synthetic,,,0.9938
+621,Monomer,Indolicidin/Cathelicidin-4 [W8K],,ILPWKWPKWPWRR,AMD,Synthetic,,,0.9999
+622,Monomer,Indolicidin/Cathelicidin-4 [W8K][W9K],,ILPWKWPKKPWRR,AMD,Synthetic,,,0.9999
+623,Monomer,Indolicidin/Cathelicidin-4 [W6K][W8K][W9K],,ILPWKKPKKPWRR,AMD,Synthetic,,,0.9999
+624,Monomer,Indolicidin/Cathelicidin-4 [W6K][W8K][W9K][W11K],,ILPWKKPKKPKRR,AMD,Synthetic,,,0.9998
+634,Monomer,Gaegurin 5 (1-13),,FLGALFKVASKVL,,Synthetic,,,0.9971
+635,Monomer,Gaegurin 5 (3-13),,GALFKVASKVL,,Synthetic,,,0.0152
+640,Monomer,Gaegurin 5 (1-13)[G3K],,FLKALFKVASKVL,,Synthetic,,,0.9973
+641,Monomer,Gaegurin 5 (1-13)[G3K][S10L],,FLKALFKVALKVL,,Synthetic,,,0.9883
+642,Monomer,Gaegurin 5 (1-13)[F1A],,ALGALFKVASKVL,,Synthetic,,,0.9917
+643,Monomer,Gaegurin 5 (1-13)[F1W],,WLGALFKVASKVL,,Synthetic,,,0.9808
+644,Monomer,Gaegurin 5 (1-11)[F1W],,WLGALFKVASK,,Synthetic,,,0.8172
+645,Monomer,Gaegurin 5 (1-11)[L2W],,FWGALFKVASK,,Synthetic,,,0.8934
+646,Monomer,Gaegurin 5 (1-11)[G3W],,FLWALFKVASK,,Synthetic,,,0.9644
+649,Monomer,Tigerinin-1,,FCTMIPIPRCY,AMD,Ribosomal,,,0.1407
+652,Monomer,Tigerinin-2,,RVCFAIPLPICH,AMD,Ribosomal,,,0.1769
+653,Monomer,Gaegurin 5 (1-11)[F6W],,FLGALWKVASK,,Synthetic,,,0.9805
+655,Monomer,Gaegurin 5 (1-11)[V8W],,FLGALFKWASK,,Synthetic,,,0.9583
+657,Monomer,Tigerinin-3,,RVCYAIPLPICY,AMD,Ribosomal,,,0.0912
+658,Monomer,Tigerinin-4,,RVCYAIPLPIC,AMD,Ribosomal,,,0.096
+663,Monomer,Gaegurin 5 (1-11)[S10W],,FLGALFKVAWK,,Synthetic,,,0.9876
+665,Monomer,Gaegurin 5 (1-11)[A4L],,FLGLLFKVASK,,Synthetic,,,0.9213
+666,Monomer,Gaegurin 5 (1-11)[A4K]	,,FLGKLFKVASK,,Synthetic,,,0.9799
+668,Monomer,Gaegurin 5 (1-11)[V8L],,FLGALFKLASK,,Synthetic,,,0.9092
+669,Monomer,Gaegurin 5 (1-11)[V8K],,FLGALFKKASK,,Synthetic,,,0.9528
+670,Monomer,Gaegurin 5 (1-11)[V8F],,FLGALFKFASK,,Synthetic,,,0.8981
+671,Monomer,Gaegurin 5 (1-11)[A4W][V8W],,FLGWLFKWASK,,Synthetic,,,0.9815
+716,Monomer,Puroindoline-A (34-46),,FPVTWRWWKWWKG,AMD,Synthetic,,,0.9998
+717,Monomer,"Lactoferricin B (4-14), Lfcin B (20-30)",,RRWQWRMKKLG,,Synthetic,,,0.9982
+718,Monomer,PW2,,HPLKQYWWRPSI,,Synthetic,,,0.483
+723,Monomer,"Temporin-F, Temporin-1Tf",,FLPLIGKVLSGIL,AMD,Ribosomal,,,0.9852
+726,Monomer,Dhvar1,,KRLFKELKFSLRKY,,Synthetic,,,0.489
+727,Monomer,"Negative control peptide dcysSA, Cystatin-SA (1-14)",,WSPQEEDRIIEGGI,,Synthetic,,,0.0001
+732,Monomer,"Histatin 5 (4-15) AMD, P-113",,AKRHHGYKRKFH,AMD,Synthetic,,,0.9237
+742,Monomer,Histatin 5 (4-15)[H4F][H5F][H12F],,AKRFFGYKRKFF,AMD,Synthetic,,,0.9624
+773,Monomer,"Cathelicidin-1 (1-15), CATH-1 (1-15), Fowlicidin-1 (1-15)",,RVKRVWPLVIRTVIA,,Synthetic,,,0.6669
+779,Monomer,Aurein-1.2,,GLFDIIKKIAESF,AMD,Ribosomal,,,0.9751
+820,Monomer,Caltrin / Calcium transport inhibitor / YY-2 / Seminalplasmin / SPLN [28-40],,PKLLETFLSKWIG,,Synthetic,,,0.048
+847,Monomer,"Temporin-B, Temporin-1Tb	",,LLPIVGNLLKSLL,AMD,Ribosomal,,,0.9969
+878,Monomer,Buforin-2 (10-21),,FPVGRVHRLLRK,,Synthetic,,,0.9627
+904,Monomer,"Cecropin A (2-8) + Melittin (6-9), CM5, CM11",,WKLFKKILKVL,AMD,Synthetic,,,0.9997
+910,Monomer,"BP15, Cecropin A (1-12)[W2Del,E9L,G12L]",,KKLFKKILKVL,AMD,Synthetic,,,0.9988
+911,Monomer,Cecropin A (2-8) + Melittin (6-9)[V8W],,WKLFKKILKWL,AMD,Synthetic,,,1.0
+912,Monomer,Cecropin A (2-8) + Melittin (6-9)[V8F],,WKLFKKILKFL,AMD,Synthetic,,,0.9997
+913,Monomer,Cecropin A (2-8) + Melittin (6-9)[V8Y],,WKLFKKILKYL,AMD,Synthetic,,,0.9994
+914,Monomer,Cecropin A (2-8)[W2L] + Melittin (6-9),,LKLFKKILKVL,AMD,Synthetic,,,0.9951
+915,Monomer,"BP76, Cecropin A (2-8)[W2K] + Melittin (6-9)[V8F]",,KKLFKKILKFL,AMD,Synthetic,,,0.9979
+926,Monomer,Gaegurin 5 (1-11)[A4W] ,,FLGWLFKVASK,,Synthetic,,,0.9618
+927,Monomer,Gaegurin 5 (1-11)[A4W][V8W] ,,FLGWLFKWASK,AMD,Synthetic,,,0.9815
+928,Monomer,Gaegurin 5 (1-11)[A4W][V8W][S10W] ,,FLGWLFKWAWK,AMD,Synthetic,,,0.9999
+929,Monomer,Melittin (12-26),,GLPALISWIKRKRQQ,AMD,Synthetic,,,0.997
+930,Monomer,Melittin (12-26)[G1L],,LLPALISWIKRKRQQ,AMD,Synthetic,,,0.9953
+931,Monomer,Melittin (12-26)[L2S],,GSPALISWIKRKRQQ,AMD,Synthetic,,,0.9664
+932,Monomer,Melittin (12-26)[P3L],,GLLALISWIKRKRQQ,AMD,Synthetic,,,0.9941
+933,Monomer,Melittin (12-26)[P3S],,GLSALISWIKRKRQQ,AMD,Synthetic,,,0.9956
+934,Monomer,Melittin (12-26)[A4L],,GLPLLISWIKRKRQQ,AMD,Synthetic,,,0.9971
+935,Monomer,Melittin (12-26)[L5S],,GLPASISWIKRKRQQ,AMD,Synthetic,,,0.9828
+936,Monomer,Melittin (12-26)[I6S],,GLPALSSWIKRKRQQ,AMD,Synthetic,,,0.9834
+937,Monomer,Melittin (12-26)[S7L],,GLPALILWIKRKRQQ,AMD,Synthetic,,,0.9975
+938,Monomer,Melittin (12-26)[W8L],,GLPALISLIKRKRQQ,AMD,Synthetic,,,0.9867
+939,Monomer,Melittin (12-26)[W8S],,GLPALISSIKRKRQQ,AMD,Synthetic,,,0.9927
+940,Monomer,Melittin (12-26)[I9S],,GLPALISWSKRKRQQ,AMD,Synthetic,,,0.907
+941,Monomer,Gaegurin 5 (1-11)[G3W][A4W][V8W][S10W] ,,FLWWLFKWAWK,AMD,Synthetic,,,1.0
+942,Monomer,Gaegurin 5 (1-11)[A4W][V8W][S10K] ,,FLGWLFKWAKK,AMD,Synthetic,,,0.9998
+943,Monomer,Gaegurin 5 (1-11)[G3K][A4W][V8W][S10K] ,,FLKWLFKWAKK,AMD,Synthetic,,,1.0
+944,Monomer,Gaegurin 5 (1-11)[G3K][A4W][V8W][A9L][S10K],,FLKWLFKWLKK,AMD,Synthetic,,,1.0
+945,Monomer,Gaegurin 5 (1-11)[L2A][G3K][A4W][L5A][V8W][S10K] ,,FAKWAFKWAKK,AMD,Synthetic,,,0.9999
+946,Monomer,Gaegurin 5 (1-11)[L2A][G3K][A4W][L5A][V8W][A9L][S10K] ,,FAKWAFKWLKK,AMD,Synthetic,,,0.9999
+951,Monomer,Tritrpticin [R2K][R3K][R12K][R13K],,VKKFPWWWPFLKK,,Synthetic,,,0.9999
+952,Monomer,Tritrpticin (2-13)[L11Del],,RRFPWWWPFRR,,Synthetic,,,0.9993
+953,Monomer,"Tritrpticin (2-13)[R1,2,12,13K][L11Del]",,KKFPWWWPFKK,,Synthetic,,,0.9997
+1014,Monomer,Ranatuerin-5,,FLPIASLLGKYL,,Ribosomal,,,0.9029
+1015,Monomer,Ranatuerin-6,,FISAIASMLGKFL,,Ribosomal,,,0.9236
+1016,Monomer,Ranatuerin-7,,FLSAIASMLGKFL,,Ribosomal,,,0.9365
+1017,Monomer,Ranatuerin-8,,FISAIASFLGKFL,,Ribosomal,,,0.9462
+1018,Monomer,Ranatuerin-9,,FLFPLITSFLSKVL,,Ribosomal,,,0.896
+1026,Monomer,"Temporin-1Tl, Temporin-L",,FVQWFSKFLGRIL,AMD,Ribosomal,,,0.9832
+1042,Monomer,"Lactoferricin (20-30), LF11",,FQWQRNIRKVR,AMD,Synthetic,,,0.9729
+1043,Monomer,Lactoferricin (20-30)[Q21Del; V29W],,FWQRNIRKWR,AMD,Synthetic,,,0.9808
+1045,Monomer,"Lactoferricin (20-30)[Q21,23;N25Del; V29W]",,FWRIRKWR,AMD,Synthetic,,,0.9902
+1046,Monomer,"Lactoferricin (20-30)[Q21Del; K28I,V29R]",,FWQRNIRIRR,AMD,Synthetic,,,0.9451
+1047,Monomer,"Lactoferricin (20-30)[Q21,23;N25Del; K28I,V29R]",,FWRIRIRR,AMD,Synthetic,,,0.9721
+1052,Monomer,"P-Lactoferricin (20-30)[Q21,23;N25Del; K28I,V29R], LF11-322",,PFWRIRIRR,AMD,Synthetic,,,0.9977
+1055,Monomer,"P-Lactoferricin (20-30)[Q21,23;R24(3)R;N25Del;K28I,V29R], LF11-337",,PFWRRRIRIRR,AMD,Synthetic,,,0.9995
+1057,Monomer,"P-Lactoferricin (20-30)[Q21F;Q23;N25Del; K28I,V29R]",,PFFWRIRIRR,AMD,Synthetic,,,0.9982
+1059,Monomer,"Cathelicidin-1, Bactenecin-1, Bac1",,RLCRIVVIRVCR,,Ribosomal,,,0.9988
+1061,Monomer,"Linear Cathelicidin-1, Linear Bac1 [C3S][C11S]",,RLSRIVVIRVSR,,Synthetic,,,0.7752
+1082,Monomer,BacP3R,,RRRCPIVVIRVCRR,,Synthetic,,,0.7155
+1083,Monomer,BacP3R-V,,RRRLCPIVIRVCRR,,Synthetic,,,0.6438
+1084,Monomer,Bac2I-NH2,,RICRIVVIRCIR,AMD,Synthetic,,,0.9988
+1085,Monomer,BacP2R-NH2,,RLCPRVRIRVCR,AMD,Synthetic,,,0.9824
+1086,Monomer,BacP1,,RLCRIVPVIRVCR,,Synthetic,,,0.9657
+1087,Monomer,BacW,,RLCRIVWVIRVCR,,Synthetic,,,0.9948
+1088,Monomer,BacW2R,,RRLCRIVWVIRVCRR,,Synthetic,,,0.9892
+1089,Monomer,Lin BacS-NH2,,RLSRIVVIRVCR,AMD,Synthetic,,,0.9927
+1090,Monomer,Linear BacP3R,,RRRCPIVVIRVCRR,,Synthetic,,,0.7155
+1091,Monomer,Lin BacP3R-V,,RRRLCPIVIRVCRR,,Synthetic,,,0.6438
+1092,Monomer,Lin BacP1,,RLCRIVPVIRVCR,,Synthetic,,,0.9657
+1093,Monomer,Lin BacW,,RLCRIVWVIRVCR,,Synthetic,,,0.9948
+1094,Monomer,Lin BacW2R,,RRLCRIVWVIRVCRR,,Synthetic,,,0.9892
+1127,Monomer,"Temporin-1P, Temporin-1CSa",,FLPIVGKLLSGLL,AMD,Ribosomal,,,0.9854
+1129,Monomer,"Vespid chemotactic peptide M, VESCP-M, Ves-CP-M, Vespid chemotactic peptide 5h",,FLPIIGKLLSGLL,AMD,Ribosomal,,,0.9702
+1133,Monomer,Cecropin A (1-7) + Temporin-A (2-9),,KWKLFKKLPLIGRVL,AMD,Synthetic,,,0.9995
+1163,Monomer,"Hylaseptin-P1, HSP1",,GILDAIKAIAKAAG,AMD,Ribosomal,,,0.9851
+1164,Monomer,KSL,,KKVVFKVKFK,AMD,Synthetic,,,0.9848
+1187,Monomer,"Cecropin A (1-7) + Melittine (2-9), CM15",,KWKLFKKIGAVLKVL,,Synthetic,,,0.9998
+1188,Monomer,Cecropin A (1-7) + Melittine (2-9) [L4K],,KWKKFKKIGAVLKVL,,Synthetic,,,0.9999
+1189,Monomer,Cecropin A (1-7) + Melittine (2-9) [A10K],,KWKLFKKIGKVLKVL,,Synthetic,,,0.9999
+1190,Monomer,Cecropin A (1-7) + Melittine (2-9) [V14K],,KWKLFKKIGAVLKKL,,Synthetic,,,0.9996
+1191,Monomer,Cecropin A (1-7) + Melittine (2-9) [L4K][A10K],,KWKKFKKIGKVLKVL,,Synthetic,,,1.0
+1192,Monomer,Cecropin A (1-7) + Melittine (2-9) [L4K][V14K],,KWKKFKKIGAVLKKL,,Synthetic,,,0.9999
+1193,Monomer,Cecropin A (1-7) + Melittine (2-9) [A10K][V14K],,KWKLFKKIGKVLKKL,,Synthetic,,,0.9999
+1204,Monomer,"Bac2a [L2R][A3W][A11R], E6, Sub3, T69L",,RRWRIVVIRVRR,AMD,Synthetic,,,1.0
+1216,Monomer,Urechistachykinin-1,,LRQSQFVGSR,AMD,Ribosomal,,,0.1445
+1217,Monomer,Urechistachykinin-2,,AAGMGFFGAR,AMD,Ribosomal,,,0.0622
+1240,Monomer,"Agelaia-mastoparan, Agelaia-MP",,INWLKLGKAIIDAL,AMD,Ribosomal,,,0.5136
+1241,Monomer,"Protonectin, Agelaia-chemotactic peptide, Agelaia-CP",,ILGTILGLLKGL,AMD,Ribosomal,,,0.9721
+1341,Monomer,Jellein-1,,PFKISIHL,AMD,Ribosomal,,,0.5171
+1342,Monomer,Jellein-2,,TPFKISIHL,AMD,Ribosomal,,,0.0975
+1343,Monomer,Jellein-4,,TPFKISIH,AMD,Ribosomal,,,0.0537
+1346,Monomer,"Jellein-3, Jellein-III",,EPFKISIHL,AMD,Ribosomal,,,0.0508
+1400,Monomer,"Lactoferricin-H (19-30)[Q23K,N25A], LFcin (19-30)[Q23K,N25A]",,CFQWKRAMRKVR,,Synthetic,,,0.9996
+1421,Monomer,"HB43, FLAK50 AMD",,FAKLLAKLAKKLL,AMD,Synthetic,,,0.9975
+1422,Monomer,"HB55, FLAK50D AMD",,FAKLLAKALKKLL,AMD,Synthetic,,,0.9967
+1465,Monomer,Peptide BmKn2,,FIGAIARLLSKIF,AMD,Ribosomal,,,0.9913
+1479,Monomer,Dybowskin-4,,VWPLGLVICKALKIC,,Ribosomal,,,0.8367
+1494,Monomer,Odorranain-G1 ,,FMPILSCSRFKRC,,Ribosomal,,,0.2269
+1504,Monomer,Odorranain-N1,,DEKGPKWKR,,Ribosomal,,,0.0052
+1518,Monomer,Odorranain-R1,,GFSPNLPGKGLRIS,,Ribosomal,,,0.0803
+1519,Monomer,Odorranain-S1,,FLPPSPWKETFRTS,,Ribosomal,,,0.0166
+1520,Monomer,Odorranain-T1,,TSRCYIGYRRKVVCS,,Ribosomal,,,0.0154
+1522,Monomer,Odorranain-V1,,GLLSGTSVRGSI,,Ribosomal,,,0.0019
+1556,Monomer,"Bac1, Cathelicidin-1 [C3,11R]",,RLRRIVVIRVRR,AMD,Synthetic,,,0.9997
+1560,Monomer,"E2, Bac8c",,RIWVIWRR,AMD,Synthetic,,,0.9929
+1564,Monomer,"Mastoparan-like peptide 12a, Mastoparan-X, MP-X, Mastoparan-V",,INWKGIAAMAKKLL,AMD,Ribosomal,,,0.9831
+1568,Monomer,Antifungal lectin PVAP,,SNDIYFNFQR,,Ribosomal,,,0.0014
+1584,Monomer,"Mastoparan-1, Mastoparan I, MPI, MP-1",,IDWKKLLDAAKQIL,AMD,Ribosomal,,,0.9783
+1585,Monomer,"Polybia-CP, Polybia chemotactic peptide, Venom protein CP",,ILGTILGLLKSL,AMD,Ribosomal,,,0.9752
+1640,Monomer,"Mastoparan-M, Mast cell-degranulating peptide, Mastoparan-like peptide 12c",,INLKAIAALAKKLL,AMD,Ribosomal,,,0.9937
+1641,Monomer,Mastoparan-like peptide 12d,,INLKAIAAMAKKLL,AMD,Ribosomal,,,0.8877
+1649,Monomer,Ascalin,,YQCGQGG,,Ribosomal,,,0.0402
+1655,Monomer,Antimicrobial ribonuclease,,DNGEAGRAAR,,Ribosomal,,,0.0029
+1665,Monomer,"Defensin-like protein, Coccinin",,KQTENLADTY,,Ribosomal,,,0.0011
+1738,Monomer,Cathelicidin-BF-15,,VKRFKKFFRKLKKSV,,Synthetic,,,0.9663
+1739,Monomer,"Bactenecin-1 [L2R,C3W,R4K,W10W,C11R], Sub5",,RRWKIVVIRWRR,AMD,Synthetic,,,1.0
+1748,Monomer,Indolicidin [P3K],,ILKWKWPWWPWRR,AMD,Synthetic,,,1.0
+1755,Monomer,HHC-36,,KRWWKWWRR,AMD,Synthetic,,,1.0
+1756,Monomer,Indolicidin (5-13),,KWPWWPWRR,AMD,Synthetic,,,0.9988
+1760,Monomer,Indolicidin (7-13),,PWWPWRR,AMD,Synthetic,,,0.955
+1766,Monomer,HHC-10,,KRWWKWIRW,AMD,Synthetic,,,1.0
+1864,Monomer,"Temporin-AL-i, Amolopin-2i antimicrobial peptide",,FFPIVGKLLSGLL,AMD,Ribosomal,,,0.9765
+1865,Monomer,"Temporin-AL-j, Amolopin-2k antimicrobial peptide",,FFPIVGKLLFGLL,AMD,Ribosomal,,,0.8581
+1866,Monomer,"Temporin-AL-k, Amolopin-2i antimicrobial peptide",,FFPIVGKLLS,AMD,Ribosomal,,,0.6429
+1881,Monomer,Temporin-CG1,,FLPFVGNLLKGLL,AMD,Ribosomal,,,0.9982
+1882,Monomer,Temporin-CG2,,FFPIVGKLLSGLF,AMD,Ribosomal,,,0.9846
+1883,Monomer,Temporin-CG3,,FLPIVGKLLSGLF,AMD,Ribosomal,,,0.9895
+1884,Monomer,Temporin-CG4,,FLPILGNLLNGLL,AMD,Ribosomal,,,0.9454
+1885,Monomer,Temporin-CG5,,FLPFVGNLLNGLL,AMD,Ribosomal,,,0.8314
+1947,Monomer,VESP-VB1,,FMPIIGRLMSGSL,,Ribosomal,,,0.0433
+1948,Monomer,MP-VB1,,INMKASAAVAKKLL,,Ribosomal,,,0.8074
+1958,Monomer,Modified-2 Defensin (22-30),,ALLLAIRKR,AMD,Synthetic,,,0.9595
+1959,Monomer,Defensin (22-30),,AHCLAIGRK,AMD,Synthetic,,,0.5843
+1960,Monomer,Modified 1 Defensin (22-30),,ALRLAIRKR,AMD,Synthetic,,,0.969
+1961,Monomer,Modified-3 Defensin (22-30),,AWLLAIRKR,AMD,Synthetic,,,0.9808
+1962,Monomer,Modified-4 Defensin (22-30),,ALYLAIRKR,AMD,Synthetic,,,0.8419
+1963,Monomer,Modified-5 Defensin (22-30),,ALWLAIRKR,AMD,Synthetic,,,0.9945
+1978,Monomer,Temporin-LTe,,FLAGLIGGLAKML,AMD,Ribosomal,,,0.9613
+2024,Monomer,NK11,,KISKRILTGKK,AMD,Synthetic,,,0.2587
+2122,Monomer,Eumenine mastoparan-AF,,INLLKIAKGIIKSL,AMD,Ribosomal,,,0.7188
+2124,Monomer,"Eumenine mastoparan-AF2, Eumenine mastoparan-AF1 (4-14)",,LKIAKGIIKSL,AMD,Synthetic,,,0.2049
+2125,Monomer,"Eumenine mastoparan-AF3, Eumenine mastoparan-AF1 (4-14)",,LKIAKGIIKSL,,Synthetic,,,0.2049
+2126,Monomer,Eumenitin-R,,LNLKGLIKKVASLLN,,Ribosomal,,,0.9867
+2127,Monomer,Eumenitin-F,,LNLKGLFKKVASLLT,,Ribosomal,,,0.9862
+2128,Monomer,Eumenine mastoparan-ER,,FDIMGLIKKVAGAL,AMD,Ribosomal,,,0.9752
+2129,Monomer,Eumenine mastoparan-EF,,FDVMGIIKKIASAL,AMD,Ribosomal,,,0.9229
+2143,Monomer,"Meucin-13, Venom antimicrobial peptide-6",,IFGAIAGLLKNIF,AMD,Ribosomal,,,0.9694
+2159,Monomer,Cytotoxic linear peptide IsCT,,ILGKIWEGIKSLF,AMD,Ribosomal,,,0.9992
+2160,Monomer,Cytotoxic linear peptide IsCT [WA6],,ILGKIAEGIKSLF,AMD,Synthetic,,,0.9836
+2161,Monomer,Cytotoxic linear peptide IsCT [WL6],,ILGKILEGIKSLF,AMD,Synthetic,,,0.9963
+2162,Monomer,Cytotoxic linear peptide IsCT  [EK7],,ILGKIWKGIKSLF,AMD,Synthetic,,,0.9999
+2163,Monomer,"Cytotoxic linear peptide IsCT [WL6, SK11]",,ILGKILKGIKKLF,AMD,Synthetic,,,0.9972
+2164,Monomer,"Cytotoxic linear peptide IsCT [EK7, GP8, SK11]",,ILGKIWKPIKKLF,AMD,Synthetic,,,0.9987
+2188,Monomer,Maximin-S1,,GSNTGFNFKTLDKE,,Ribosomal,,,0.0006
+2202,Monomer,Temporin-1CSc,,FLPLVTGLLSGLL,AMD,Ribosomal,,,0.9615
+2203,Monomer,"Temporin-1CSd, Temporin-1DRb",,NFLGTLVNLAKKIL,AMD,Ribosomal,,,0.9874
+2204,Monomer,"Temporin-SHa, Temporin-1Sa",,FLSGIVGMLGKLF,AMD,Ribosomal,,,0.9605
+2205,Monomer,Temporin-1Sb,,FLPIVTNLLSGLL,AMD,Ribosomal,,,0.9647
+2206,Monomer,Temporin-1Sc,,FLSHIAGFLSNLF,AMD,Ribosomal,,,0.6127
+2241,Monomer,KSL3,,KVVFKVKFKKK,AMD,Synthetic,,,0.9988
+2243,Monomer,KSL2,,KKKVVFKVKFK,AMD,Synthetic,,,0.96
+2244,Monomer,KSL4,,KKVVFKVKFKK,AMD,Synthetic,,,0.9931
+2247,Monomer,KSL7,,KKKVVFKVKFKKK,AMD,Synthetic,,,0.9987
+2249,Monomer,Metalnikowin-1 ,,VDKPDYRPRPRPPNM,,Ribosomal,,,0.001
+2250,Monomer,"D70, Uperin 7.1 [S11K][A12R][V13F]",,GWFDVVKHIAKRF,AMD,Synthetic,,,0.9299
+2253,Monomer,"D74, DASamP2, Polybia-MPI [D2K][D8R][Q12R]",,IKWKKLLRAAKRIL,AMD,Synthetic,,,0.9999
+2254,Monomer,"Hyposin-5, Hyposin-HA4",,FRPALIVRTKGTRL,,Ribosomal,,,0.1464
+2255,Monomer,"D76, DASamP1, Temporin-PTa [S4K][P10R][L13F]",,FFGKVLKLIRKIF,AMD,Synthetic,,,0.9957
+2262,Monomer,Pr-1,,PRRRRSSSRP,,Synthetic,,,0.0164
+2263,Monomer,Pr-2,,VRRRRRPR,,Synthetic,,,0.4078
+2264,Monomer,"Protamine (19-32), Pr-3",,VSRRRRRRGGRRRR,,Synthetic,,,0.4629
+2277,Monomer,"Uperin 7.1 [V5I,V6I,K8H,A12E,L13V]",,GWFDIIKKIASEL,AMD,Synthetic,,,0.8614
+2294,Monomer,PFQa,,FLGALLGPLMNLLQ,AMD,Ribosomal,,,0.6047
+2321,Monomer,PTP5,,FLKLLKKLAAKFL,,Synthetic,,,0.9995
+2322,Monomer,PTP6,,FLKLLKKLAAKLF,,Synthetic,,,0.9997
+2323,Monomer,"Gaegurin-5 (1-13)[V8A,A9L,V12L], PTP7",,FLGALFKALSKLL,,Synthetic,,,0.9977
+2324,Monomer,PTP8,,FLKLLAGLLKNFA,,Synthetic,,,0.9606
+2325,Monomer,Scrambled-4l,,KLKLLKLLKLLKLLK,AMD,Synthetic,,,0.9997
+2326,Monomer,Segregated-5l,,KKKLLLLLLLLLKKK,AMD,Synthetic,,,0.9995
+2335,Monomer,Temporin-1DRa,,HFLGTLVNLAKKIL,AMD,Ribosomal,,,0.9781
+2368,Monomer,Mastoparan-VT1,,INLKAIAALAKKLL,,Ribosomal,,,0.9937
+2380,Monomer,"Ubiquicidin, UBI 29-41",,TGRAKRRMQYNRR,,Synthetic,,,0.2479
+2387,Monomer,Ranatuerin-1 (9-25),,CKINKQC,,Synthetic,,,0.0553
+2410,Monomer,BPC6L,,KFKLKQ,,Synthetic,,,0.1417
+2411,Monomer,BPC8L,,KLKFKLKQ,,Synthetic,,,0.8421
+2413,Monomer,BPC10L,,KLKLKFKLKQ,,Synthetic,,,0.9991
+2420,Monomer,BPC8S1,,KLKLKLKQ,,Synthetic,,,0.9676
+2421,Monomer,BPC8S2,,KLKLKLKE,,Synthetic,,,0.472
+2422,Monomer,BPC8S3,,LKLKLKLQ,,Synthetic,,,0.8602
+2425,Monomer,"Melittin (12-26, G14G15)",,GLPALISWIKRKRGG,AMD,Synthetic,,,0.9986
+2426,Monomer,Melittin (12-25),,GLPALISWIKRKRQ,AMD,Synthetic,,,0.9974
+2427,Monomer,"Melittin (12-25, L14)",,GLPALISWIKRKRL,AMD,Synthetic,,,0.9979
+2428,Monomer,Melittin (12-24),,GLPALISWIKRKR,AMD,Synthetic,,,0.9987
+2446,Monomer,Tenecin-1 (17-27) [F10W],,DAACAAHCLWR,AMD,Synthetic,,,0.0218
+2447,Monomer,"Tenecin-1 (17-27) [H7K,F10W]",,DAACAAKCLWR,AMD,Synthetic,,,0.0259
+2448,Monomer,"Tenecin-1 (17-27) [D1K,F10W]",,KAACAAHCLWR,AMD,Synthetic,,,0.7957
+2449,Monomer,"Tenecin-1 (17-27) [D1K,H7K,F10W]",,KAACAAKCLWR,AMD,Synthetic,,,0.8717
+2505,Monomer,Kassinatuerin-1 (10-21),,IPHAVKAISDLI,AMD,Synthetic,,,0.0008
+2521,Monomer,"Gaegurin-5 (1-13)[L2V,V8A,A9L,V12L], PTP7v2",,FVGALFKALSKLL,,Synthetic,,,0.9954
+2522,Monomer,"Gaegurin-5 (1-13)[L5V,V8A,A9L,V12L], PTP7v5",,FLGAVFKALSKLL,,Synthetic,,,0.9979
+2523,Monomer,"Gaegurin-5 (1-13)[V8A,A9V,V12L], PTP7v9",,FLGALFKAVSKLL,,Synthetic,,,0.997
+2525,Monomer,"Gaegurin-5 (1-13)[V8A,A9L], PTP7v12",,FLGALFKALSKVL,,Synthetic,,,0.9975
+2526,Monomer,"Gaegurin-5 (1-13)[V8A,A9L,V12L,L13V], PTP7v13",,FLGALFKALSKLV,,Synthetic,,,0.9936
+2527,Monomer,"Gaegurin-5 (1-13)[F6V,V8A,A9L,V12L], PTP7v6",,FLGALVKALSKLL,,Synthetic,,,0.9963
+2529,Monomer,"Gaegurin-5 (1-13)[L5V,F6V,V8A,A9L,V12L], PTP7v5v6",,FLGAVVKALSKLL,,Synthetic,,,0.9973
+2530,Monomer,"Gaegurin-5 (1-13)[A9L,V12L], PTP7v8v9",,FLGALFKVVSKLL,,Synthetic,,,0.9967
+2531,Monomer,"Gaegurin-5 (1-13)[A4V,A9L,V12L], PTP7v4v8",,FLGVLFKVLSKLL,,Synthetic,,,0.9974
+2532,Monomer,"Gaegurin-5 (1-13)[F6A,V8A,A9L,V12L], PTP7a6",,FLGALAKALSKLL,,Synthetic,,,0.9958
+2533,Monomer,"Gaegurin-5 (1-13)[L2,5A,V8A,A9L,V12L], PTP7a2a5",,FAGAAFKALSKLL,,Synthetic,,,0.9927
+2534,Monomer,"Gaegurin-5 (1-13)[G3K,V8A,A9L,V12L], PTP7k3",,FLKALFKALSKLL,,Synthetic,,,0.9984
+2535,Monomer,"Gaegurin-5 (1-13)[G3K,V8A,A9L,S10K,V12L], PTP7k3k10",,FLKALFKALKKLL,,Synthetic,,,0.9978
+2580,Monomer,Cecropin A (1-7) + Melittin (5-9) [V8I],,KWKLFKKILKVL,AMD,Synthetic,,,0.9999
+2583,Monomer,"CM7, KLK-L5",,KLKLLLLLKLK,AMD,Synthetic,,,0.9987
+2588,Monomer,Defensin-derived L-Peptide C,,ALYLAIRRR,AMD,Synthetic,,,0.8198
+2603,Monomer,"LP14, Lentivirus lytic peptide LLP1(8-21)",,GACRAIRHIPRRIR,AMD,Synthetic,,,0.8316
+2613,Monomer,Defensin Allomyrina dichotoma (19-30),,LCAAHCLAIGRR,AMD,Synthetic,,,0.4796
+2614,Monomer,Defensin Allomyrina dichotoma (19-30)[G10R],,LCAAHCLAIRRR,AMD,Synthetic,,,0.7964
+2615,Monomer,Defensin Allomyrina dichotoma (19-30)[G10L],,LCAAHCLAILRR,AMD,Synthetic,,,0.754
+2616,Monomer,Defensin Allomyrina dichotoma (19-30)[H5R],,LCAARCLAIGRR,AMD,Synthetic,,,0.7772
+2617,Monomer,Defensin Allomyrina dichotoma (19-30)[H5L],,LCAALCLAIGRR,AMD,Synthetic,,,0.627
+2618,Monomer,"Defensin Allomyrina dichotoma (19-30)[C2,6R]",,LRAAHRLAIGRR,AMD,Synthetic,,,0.9701
+2619,Monomer,"Defensin Allomyrina dichotoma (19-30)[C2,6L]",,LLAAHLLAIGRR,AMD,Synthetic,,,0.9333
+2620,Monomer,Defensin Allomyrina dichotoma (21-30),,AAHCLAIGRR,AMD,Synthetic,,,0.8228
+2621,Monomer,Defensin Allomyrina dichotoma (22-30),,AHCLAIGRR,AMD,Synthetic,,,0.5966
+2622,Monomer,Defensin Allomyrina dichotoma (23-30),,HCLAIGRR,AMD,Synthetic,,,0.5598
+2623,Monomer,Defensin Allomyrina dichotoma (24-30),,CLAIGRR,AMD,Synthetic,,,0.3777
+2624,Monomer,"Defensin Allomyrina dichotoma (22-30)[H2L,C3R,G7R]",,ALRLAIRRR,AMD,Synthetic,,,0.9645
+2625,Monomer,"Defensin Allomyrina dichotoma (22-30)[H2L,C3L,G7R]",,ALLLAIRRR,AMD,Synthetic,,,0.9402
+2626,Monomer,"Defensin Allomyrina dichotoma (22-30)[H2W,C3L,G7R]",,AWLLAIRRR,AMD,Synthetic,,,0.9744
+2627,Monomer,"Defensin Allomyrina dichotoma (22-30)[H2L,C3W,G7R]",,ALWLAIRRR,AMD,Synthetic,,,0.988
+2636,Monomer,"TE-(29-43), Tenecin-1 (29-43)",,RSGGYCNGKRVCVCR,AMD,Synthetic,,,0.0985
+2638,Monomer,"TE-(33-43), Tenecin-1 (33-43)",,YCNGKRVCVCR,AMD,Synthetic,,,0.0237
+2688,Monomer,Bovine hemoglobin alpha chain (133-141),,STVLTSKYR,,Synthetic,,,0.0143
+2730,Monomer,Temporin -LTb,,FIITGLVRGLTKLF,AMD,Ribosomal,,,0.7453
+2768,Monomer,Mastoparan PDD-A,,INWKKIFEKVKNLV,AMD,Ribosomal,,,0.9991
+2773,Monomer,Mastoparan PDD-A-5,,INWSKIFEKVKNLV,AMD,Synthetic,,,0.997
+2774,Monomer,Mastoparan PDD-A-6,,INWSSIFEKVKNLV,AMD,Synthetic,,,0.9839
+2775,Monomer,Mastoparan PDD-A-7,,INWSSIFESVKNLV,AMD,Synthetic,,,0.888
+2776,Monomer,Mastoparan PDD-A-8,,INWSSIFESVSNLV,AMD,Synthetic,,,0.0337
+2777,Monomer,Mastoparan PDD-A-9,,INWKKIFEKVSNLV,AMD,Ribosomal,,,0.9971
+2778,Monomer,Mastoparan PDD-A-10,,INWKKIFESVKNLV,AMD,Synthetic,,,0.997
+2779,Monomer,Mastoparan PDD-A-11,,INWKSIFEKVKNLV,AMD,Synthetic,,,0.9976
+2780,Monomer,Mastoparan PDD-A-12,,NIWKKIFEKVKNLV,AMD,Synthetic,,,0.9998
+2781,Monomer,Mastoparan PDD-B,,INWLKLGKKILGAL,AMD,Ribosomal,,,0.9853
+2782,Monomer,Mastoparan PDD-B-1,,INWLKLGKKILGAI,AMD,Synthetic,,,0.9854
+2783,Monomer,Mastoparan PDD-B-2,,INWLRLGRRILGAL,AMD,Synthetic,,,0.9136
+2784,Monomer,Mastoparan PDD-B-3,,INFLKLGKKILGAL,AMD,Synthetic,,,0.8909
+2785,Monomer,Mastoparan PDD-B-4,,INWKKLGKKILGAL,AMD,Synthetic,,,0.9987
+2786,Monomer,Mastoparan PDD-B-5,,INSLKLGKKILGAL,AMD,Synthetic,,,0.4362
+2787,Monomer,Mastoparan MP,,INWLKLGKKMMSAL,AMD,Ribosomal,,,0.9512
+2789,Monomer,Mastoparan MP-2,,INWLKLGKKLLSAL,AMD,Synthetic,,,0.9351
+2792,Monomer,Mastoparan MP-5,,INWLKLGKKMMSAI,AMD,Synthetic,,,0.9557
+2793,Monomer,Mastoparan MP-6,,SNWLKLGKKMMSAL,AMD,Synthetic,,,0.9739
+2796,Monomer,Mastoparan MP-9,,INWLKLGKKMMSAL,,Ribosomal,,,0.9512
+2800,Monomer,Mastoparan PMM-3,,WKKIASIGKEVLKAL,AMD,Synthetic,,,0.9499
+2801,Monomer,Mastoparan PMM-4,,KKIASIGKEVLKAL,AMD,Synthetic,,,0.9796
+2802,Monomer,Mastoparan PMM-5,,KIASIGKEVLKAL,AMD,Synthetic,,,0.8844
+2804,Monomer,Mastoparan PMM-7,,INWKKIASIGKEVLK,AMD,Synthetic,,,0.981
+2805,Monomer,Mastoparan PMM-8,,INWKKIASIGKEVL,AMD,Synthetic,,,0.9506
+2806,Monomer,Mastoparan PMM-9,,INWKKIASIGKEV,AMD,Synthetic,,,0.7898
+2808,Monomer,Mastoparan PMM-11,,INWKKGKEVLKAL,AMD,Synthetic,,,0.9698
+2820,Monomer,K6L2W3,,KLWKKWKKWLK,AMD,Synthetic,,,1.0
+2822,Monomer,R6L2W3,,RLWRRWRRWLR,AMD,Synthetic,,,1.0
+2854,Monomer,"Omiganan MBI-226, MX-226, CLS001",,ILRWPWWPWRRK,AMD,Synthetic,,,1.0
+2857,Monomer,L2K3W2,,KWLKKWL,AMD,Synthetic,,,0.9908
+2858,Monomer,L3K2W2,,KWLLKWL,AMD,Synthetic,,,0.9628
+2859,Monomer,L2K5W2,,KKWLKKWLK,AMD,Synthetic,,,1.0
+2860,Monomer,L3K4W2,,LKWLKKWLK,AMD,Synthetic,,,0.9997
+2861,Monomer,L4K3W2,,LKWLLKWLK,AMD,Synthetic,,,0.9992
+2862,Monomer,L5K2W2,,LKWLLKWLL,AMD,Synthetic,,,0.9986
+2863,Monomer,L3K6W2,,LKKWLKKWLKK,AMD,Synthetic,,,1.0
+2864,Monomer,L4K5W2,,LLKWLKKWLKK,AMD,Synthetic,,,1.0
+2865,Monomer,L5K4W2,,LLKWLLKWLKK,AMD,Synthetic,,,1.0
+2866,Monomer,L6K3W2,,LLKWLLKWLLK,AMD,Synthetic,,,0.9999
+2869,Monomer,K8W3,,KKWKKWKKWKK,AMD,Synthetic,,,1.0
+2870,Monomer,K7LW3,,KLWKKWKKWKK,AMD,Synthetic,,,1.0
+2872,Monomer,K5L3W3,,KLWKLWKKWLK,AMD,Synthetic,,,1.0
+2873,Monomer,K4L4W3,,KLWKLWLKWLK,AMD,Synthetic,,,0.9999
+2874,Monomer,K3L5W3,,KLWKLWLKWLL,AMD,Synthetic,,,0.9999
+2875,Monomer,K2L6W3,,KLWLLWLKWLL,AMD,Synthetic,,,0.9997
+2876,Monomer,R8W3,,RRWRRWRRWRR,AMD,Synthetic,,,1.0
+2877,Monomer,R7LW3,,RLWRRWRRWRR,AMD,Synthetic,,,1.0
+2899,Monomer,BPC58,,KKKKKFLLLQ,,Synthetic,,,0.9654
+2900,Monomer,BPC60,,KKKKLFKLLQ,,Synthetic,,,0.9977
+2901,Monomer,BPC62,,KKKLKFKLLQ,,Synthetic,,,0.9982
+2902,Monomer,BPC64,,KKLKKFKLLQ,,Synthetic,,,0.9993
+2903,Monomer,BPC66,,KLKKKFKLLQ,,Synthetic,,,0.9997
+2905,Monomer,BPC68,,LKKKKFKLLQ,,Synthetic,,,0.9993
+2906,Monomer,BPC70,,KKKKLFLKLQ,,Synthetic,,,0.9981
+2907,Monomer,BPC72,,KKKLKFLKLQ,,Synthetic,,,0.9987
+2908,Monomer,BPC74,,KKLKKFLKLQ,,Synthetic,,,0.9997
+2909,Monomer,BPC76,,KLKKKFLKLQ,,Synthetic,,,0.9998
+2910,Monomer,BPC78,,LKKKKFLKLQ,,Synthetic,,,0.9993
+2911,Monomer,BPC80,,KKKLLFKKLQ,,Synthetic,,,0.9993
+2912,Monomer,BPC82,,KKLKLFKKLQ,,Synthetic,,,0.9996
+2913,Monomer,BPC84,,KLKKLFKKLQ,,Synthetic,,,0.9999
+2914,Monomer,BPC86,,LKKKLFKKLQ,,Synthetic,,,0.9998
