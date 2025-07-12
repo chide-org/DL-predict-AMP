@@ -1,0 +1,361 @@
+Entry,Reviewed,Entry Name,Protein names,Gene Names,Length,Sequence
+P01521,reviewed,CA1_CONMA,Alpha-conotoxin MI (Alpha-MI) (CtxMI) (M1),,14,GRCCHPACGKNYSC
+P0DJG7,reviewed,VSP2_DEIAC,Thrombin-like enzyme acutobin-2 (SVTLE) (EC 3.4.21.-) (Acutobin II) (Fibrinogen-clotting enzyme) (Snake venom serine protease) (SVSP),,15,VIGGVECDINEHRFL
+P0DJH3,reviewed,VMP3A_DEIAC,Zinc metalloproteinase-disintegrin-like AAV1 (EC 3.4.24.-) (Snake venom metalloproteinase) (SVMP) [Cleaved into: Disintegrin-like AAV1-C],,10,DVVSPPVCGN
+P0DJJ6,reviewed,VM1B_BOTLC,Snake venom metalloproteinase BleucMP (SVMP) (EC 3.4.24.-),,9,TLTSFGEWR
+P0DQM9,reviewed,CX07_CONZO,Conotoxin Czon1107,,10,GFRSPCPPFC
+P0DRC8,reviewed,VM1_MACLN,Snake venom metalloproteinase Mlp4.2 (SVMP) (EC 3.4.24.-),,15,QFSDCSKDEYQRYLT
+P18651,reviewed,FGF1_CANLF,Fibroblast growth factor 1 (FGF-1) (Acidic fibroblast growth factor) (aFGF) (Endothelial cell growth factor) (ECGF) (Heparin-binding growth factor 1) (HBGF-1),FGF1,15,NYMKPKLLYXSNGGH
+P81563,reviewed,MMP1_RAT,Interstitial collagenase (EC 3.4.24.7) (Fibroblast collagenase) (Matrix metalloproteinase-1) (MMP-1) (Myocardial collagenase),Mmp1,15,DTLKSEKNADFKDLY
+A3RLR0,reviewed,TAL3A_DROME,Peptide tarsal-less 3A (Peptide polished rice 3),tal-3A pri tal CG42386,11,MSHDLDPTGTY
+B3A0L4,reviewed,LAC1_HERCO,Laccase (EC 1.10.3.2) (Benzenediol:oxygen oxidoreductase) (Diphenol oxidase) (Urishiol oxidase),,10,AVGDDTPQLY
+B3A0N1,reviewed,VPA_BOTAT,Venom prothrombin activator (vPA),,15,ALVLIAFAQVLQQCP
+B3EWG2,reviewed,LACC_LEPMG,Laccase (EC 1.10.3.2) (Benzenediol:oxygen oxidoreductase) (Diphenol oxidase) (Urishiol oxidase),,10,VTIGKEGTLT
+C0HJB2,reviewed,LAC_SANBA,Laccase (EC 1.10.3.2),,8,AIGPVDEV
+C0HJX4,reviewed,TAL1A_DROME,Peptide tarsal-less 1A (Peptide polished rice 1),tal-1A pri tal CG42384,11,MAAYLDPTGQY
+C0HJX5,reviewed,TAL2A_DROME,Peptide tarsal-less 2A (Peptide polished rice 2),tal-2A pri tal CG42385,11,MAAYLDPTGQY
+C0HLM2,reviewed,CA1C_CONPU,Alpha-conotoxin PIC,,14,SGCCKHPACGKNRC
+P0C249,reviewed,COW_CONIN,Contryphan-In (Contryphan-In936) [Cleaved into: Contryphan-In880 (Contryphan-In896)],,8,GCVLYPWC
+P0C8I7,reviewed,VM3FA_VIPAA,Factor X-activator 1 heavy chain (VAFXA-I HC) (EC 3.4.24.-) (Snake venom metalloproteinase) (SVMP),,15,LVSVSPAFNGNYFVE
+P0DJC3,reviewed,CUGA_CONQU,Conotoxin qc16a,,11,DCQPCGHNVCC
+P0DJE8,reviewed,VSPDV_BOTJR,Thrombin-like enzyme D-V (SVTLE D-V) (EC 3.4.21.-) (Clotting factor) (Fibrinogen-clotting enzyme) (Snake venom serine protease) (SVSP),,10,VVGADNCNFN
+P0DJF1,reviewed,VSP1_BOTPA,Thrombin-like enzyme BpSP-1 (SVTLE BpSP-1) (EC 3.4.21.-) (Fibrinogen-clotting enzyme) (Snake venom serine protease) (SVSP) (Thrombin-like enzyme BpSP-I) (SVTLE BpSP-I),,15,VIGGDECDINEHPFL
+P0DJF4,reviewed,VSPAL_TRIAB,Thrombin-like enzyme albolabrase (SVTLE albolabrase) (EC 3.4.21.-) (Fibrinogen-clotting enzyme) (Snake venom serine protease) (SVSP),,11,VVGGDECNINE
+P0DJG5,reviewed,VSPKA_GLOHA,Snake venom serine protease AHP-Ka (SVSP) (EC 3.4.21.-),,15,VIGGDECNINEHRFL
+P0DJL1,reviewed,SLB_TRIAB,Snaclec alboluxin subunit beta,,12,NFSCPPDWYAYD
+P0DKX2,reviewed,VSP1_CRODM,Thrombin-like enzyme Cdc SI (SVTLE) (EC 3.4.21.-) (Fibrinogen-clotting enzyme) (Snake venom serine protease) (SVSP),,10,VIGGDECNIN
+P0DL71,reviewed,COS_CONTE,Conorfamide Tx1.3 (AIVGRPRFamide) (AIVGRPRFa) (Cono-RFamide CNF-Tx1.3) [Cleaved into: CNF-Tx1.2 (VGRPRFamide) (VGRPRFa); CNF-Tx1.1 (RPRFamide) (RPRFa)],,8,AIVGRPRF
+P0DL76,reviewed,CONOT_CONTU,Conopressin-T (Con-T),,9,CYIQNCLRV
+P0DO61,reviewed,NO40A_MEDTR,Early nodulin-40-1 (Mtenod4O),ENOD40-1,13,MKLLCWEKSIHGS
+P0DP10,reviewed,M3A_CONFI,Conotoxin Fi3a (Conotoxin Fi3b),,15,CCSQDCRVCIPCCPY
+P0DQH7,reviewed,CRF1_CONCF,Conorfamide-As1 (Conorfamide-As1a) (CNF-As1a) (Cono-RFamide-As1a) (Conorfamide-As1b) (CNF-As1b) (Cono-RFamide-As1b),,12,RIKKPIFAFPRF
+P0DQH8,reviewed,CRF2_CONCF,Conorfamide-As2 (Conorfamide-As2a) (CNF-As2a) (Cono-RFamide-As2a) (Conorfamide-As2b) (CNF-As2b) (Cono-RFamide-As2b),,12,RIRKPIFAFPRF
+P0DQQ6,reviewed,CA1A_CONMD,Alpha-conotoxin MilIA,,14,DMCCHPACMNHFNC
+P0DQY0,reviewed,CA1A_CONOB,Alpha-conotoxin OI (Alpha-conotoxin OIA),,13,YCCHPACGPNFSC
+P0DTV5,reviewed,FRE2D_DISSA,Frenatin-2D (Host-defense peptide),,14,DLLGTLGNLPLPFI
+P0DUC3,reviewed,COW_CONLE,Contryphan Le925 [Cleaved into: Contryphan Le851; Contryphan Le755; Contryphan Le685],,9,CFISDCAPG
+P0DUV1,reviewed,FLP12_SPHAA,FMRFamide-like peptide Sa12b (Sa-12) (Sa12b) (Sa-112) (Sa112),,10,EDVDHVFLRF
+P0DUV2,reviewed,FLP5_ISOHA,FMRFamide-like peptide Sh5a (FMRFamide-like peptide Sa-112) (Sa112) [Cleaved into: FMRFamide-like peptide Sh5b],,10,EDVDHVFLRF
+P0DW56,reviewed,SPFP_ECOLI,Small protein SpfP,spfP b4837,15,MFYLSDLLLHVIGFG
+P0DXZ7,reviewed,TXO1A_HOTFR,Omega-buthitoxin-Hf1a (Omega-BUTX-Hf1a),,10,HCTPNSNHCW
+P12481,reviewed,NEF_HV1Z8,Protein Nef (3'ORF) (Negative factor) (F-protein),nef,9,MGGKWSKSS
+P16392,reviewed,BIP_HORSE,Endoplasmic reticulum chaperone BiP (EC 3.6.4.10) (78 kDa glucose-regulated protein) (GRP-78) (Binding-immunoglobulin protein) (BiP) (Heat shock protein 70 family protein 5) (HSP70 family protein 5) (Heat shock protein family A member 5) (Immunoglobulin heavy chain-binding protein),HSPA5 GRP78,15,EEEDKKEDVGTVVGI
+P28467,reviewed,ACEA_ACICA,Isocitrate lyase (ICL) (EC 4.1.3.1) (Isocitrase) (Isocitratase),aceA,15,MTYQTAIDAVRELKA
+P35946,reviewed,L_PHODV,RNA-directed RNA polymerase L (Protein L) (Large structural protein) (Replicase) (Transcriptase) [Includes: RNA-directed RNA polymerase (EC 2.7.7.48); GTP phosphohydrolase (EC 3.6.1.-); GDP polyribonucleotidyltransferase (EC 2.7.7.88) (PRNTase); mRNA cap methyltransferase (EC 2.1.1.375) (mRNA (guanine-N(7)-)-methyltransferase) (G-N7-MTase) (mRNA (nucleoside-2'-O-)-methyltransferase) (N1-2'-O-MTase)],L,10,MDSVSVNQIL
+P55235,reviewed,GLGS_SPIOL,Glucose-1-phosphate adenylyltransferase small subunit (EC 2.7.7.27) (ADP-glucose pyrophosphorylase) (ADP-glucose synthase) (AGPase B) (Alpha-D-glucose-1-phosphate adenyl transferase),,14,VSDSQNSQDGLDPE
+P58810,reviewed,CTA1B_CONMR,Chi-conotoxin MrIB (Conotoxin MrIB) (Lambda/chi-conotoxin MrIB) (Chi-MrIB),,13,VGVCCGYKLCHPC
+P62542,reviewed,HTF2_CARMO,Hypertrehalosaemic factor 2 (Hypertrehalosaemic factor II) (HRTH-II) (HTF-II) (Hypertrehalosaemic neuropeptide II),,10,QLTFTPNWGT
+P69208,reviewed,MORN_HUMAN,Morphogenetic neuropeptide (Head activator) (HA),,11,QPPGGSKVILF
+P80678,reviewed,GON2_CHEPR,Gonadoliberin-2 (Gonadoliberin II) (Gonadotropin-releasing hormone II) (GnRH-II) (Luliberin II),,10,QHWSLCHAPG
+P82858,reviewed,URIC_PUCRE,Uricase (EC 1.7.3.3) (Urate oxidase),,8,APFSLATA
+P83047,reviewed,COW_CONVE,Contryphan-Vn,,9,GDCPWKPWC
+P83246,reviewed,GST_ASADI,Glutathione S-transferase (EC 2.5.1.18) (GST class-sigma) (adGST),,15,PSYKLHYFDLRAAGE
+P83659,reviewed,BRKC_CYPDO,Cyphokinin (Bradykinin-related peptide) [Cleaved into: Thr6-bradykinin (Thr6-BK)],,11,DTRPPGFTPFR
+P84389,reviewed,PLYB2_POLPI,Polybine-2 (Polybine-II),,14,SVDMVMKGIKLWPL
+P84700,reviewed,CONO_CONGA,Conophan gld-V (Gamma-hydroxyconophan gld-V*),,8,APANSVWS
+P84701,reviewed,CONO_CONMU,Conophan mus-V (Gamma-hydroxyconophan mus-V*),,8,SPANSVWS
+P84713,reviewed,CMO1_CONMO,Kappa-conotoxin Mo1659,,13,FHGGSWYRFPWGY
+P84821,reviewed,LEC_PENST,Lectin 80 kDa subunit (LsL),,15,DASNAQKQHDVNFLL
+P84914,reviewed,MAST3_POLPI,Polybia-mastoparan-III (Polybia-MP-III) (Polybia-MPIII) (Mastoparan peptide) (MP) (Venom protein 13b) (VP13b),,14,IDWLKLGKMVMDVL
+P85005,reviewed,VM3PN_PROSR,Zinc metalloproteinase-disintegrin-like proatherocytin (SVMP) (EC 3.4.24.-),,15,GNYYGYCRVHLNTAY
+P85103,reviewed,VMXP_PHIPA,Snake venom metalloproteinase patagonfibrase (SVMP) (EC 3.4.24.-),,10,LSTDIVAPPV
+P85141,reviewed,CONOV_CONVL,Gamma-conopressin vil,,9,CLIQDCPEG
+P85162,reviewed,BPPCC_BOTJA,Bradykinin-potentiating peptide 12c (BPP-12c) [Cleaved into: Bradykinin-potentiating peptide 9a (BPP-9a) (BPP-a) (Bradykinin-potentiating peptide V-6-I) (BPPV-6-I) (Teprotide); Bradykinin-potentiating peptide 9a-F (BPP-9a-F) (Bradykinin-potentiating peptide 5b) (BPP-5b)],,12,QWAQWPRPQIPP
+P85871,reviewed,CRFA2_CONSP,Conorfamide-Sr2 (CNF-Sr2) (Cono-RFamide-Sr2),,12,GPMEDPLEIIRI
+P86010,reviewed,CUTI1_COLKA,Cutinase 1 (EC 3.1.1.74) (Cutin hydrolase 1),,7,VIYIFAR
+P86259,reviewed,CT5C_CONTE,Conotoxin tx5c (Conotoxin 2) [Cleaved into: Conotoxin tx5c-b; Conotoxin tx5c-c],,14,KPCCSIHDNSCCGI
+P86508,reviewed,ROT1_LITRO,Rothein 1,,11,SVSNIPESIGF
+P86799,reviewed,IPLAA_MORAL,Insecticidal protein LA-a (EC 3.2.1.132) (EC 3.2.1.14) (Latex abundant protein a),,13,SEPQXGRDAGGAL
+P86800,reviewed,IPLAB_MORAL,Insecticidal protein LA-b (EC 3.2.1.132) (EC 3.2.1.14) (Latex abundant protein b),,13,SEQQXGRDVGGAL
+P86942,reviewed,CUGA_CONPB,Conotoxin pc16a (pc16b),,11,SCSCKRNFLCC
+Q10721,reviewed,SP01_SCEBO,Serine proteinase (EC 3.4.21.-),,13,AYTGQTGAPWGLA
+Q9PRW2,reviewed,VSP3_CROAT,Alpha-fibrinogenase A3 (EC 3.4.21.-) (Snake venom serine protease) (SVSP),,15,VIGGDECNINEHRSL
+Q9PRW3,reviewed,VSPA2_CROAT,Alpha-fibrinogenase A2 (EC 3.4.21.-) (Snake venom serine protease) (SVSP),,15,VPGGDECNINEHRSL
+B3A0L6,reviewed,ENOB_GADMO,Beta-enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (Enolase 3) (Muscle-specific enolase) (MSE) (Skeletal muscle enolase) (allergen Gad m 2.0101),ENO3,11,SITKIKAREIL
+B3EWC6,reviewed,PPA_SCHCO,Acid phosphatase (EC 3.1.3.2),,10,NAPWAQIDEV
+B3EWE5,reviewed,TLP2_MANZA,Thaumatin-like protein 2 (Basic thaumatin-like protein) (allergen Man z TLP2),,9,ATFDIQNNC
+B3EWH1,reviewed,FAR_DELRA,SIFamide-related peptide (SIFa) (AYRKPPFNGSIF-amide),,12,AYRKPPFNGSIF
+B3EWI2,reviewed,ALLA1_DELRA,Allatostatin-A1 (AST-A1) (ARPYSFGL-amide),,8,ARPYSFGL
+B3EWI3,reviewed,LAC_AGAPC,Laccase (EC 1.10.3.2),,15,DVIGPQAQVTLANQD
+B3EWJ3,reviewed,ALLA2_DELRA,Allatostatin-A2 (AST-A2) (NRPYSFGL-amide),,8,NRPYSFGL
+B3EWJ4,reviewed,ALLA3_DELRA,Allatostatin-A3 (AST-A3) (VERYAFGL-amide),,8,VERYAFGL
+B3EWJ5,reviewed,ALLC1_DELRA,Allatostatin-C1 (AST-C1),,15,QVRYRQCYFNPISCF
+B3EWJ6,reviewed,ALLC2_DELRA,Allatostatin-C2 (AST-C2),,15,QVRYRQCYFNPISCF
+B3EWJ7,reviewed,FAR1_DELRA,FMRFamide-like neuropeptide GDNFMRF-amide,,7,GDNFMRF
+B3EWJ8,reviewed,FAR2_DELRA,FMRFamide-like neuropeptide GQDFMRF-amide,,7,GQDFMRF
+B3EWJ9,reviewed,FAR3_DELRA,FMRFamide-like neuropeptide PDNFMRF-amide,,7,PDNFMRF
+B3EWK0,reviewed,FAR4_DELRA,FMRFamide-like neuropeptide GGNDFMRF-amide,,8,GGNDFMRF
+B3EWK1,reviewed,FAR5_DELRA,FMRFamide-like neuropeptide PGQDFMRF-amide,,8,PGQDFMRF
+B3EWK2,reviewed,FAR6_DELRA,FMRFamide-like neuropeptide APGQDFMRF-amide,,9,APGQDFMRF
+B3EWK3,reviewed,FAR7_DELRA,FMRFamide-like neuropeptide TPGQDFMRF-amide,,9,TPGQDFMRF
+B3EWK4,reviewed,FAR8_DELRA,FMRFamide-like neuropeptide SAPGQDFMRF-amide,,10,SAPGQDFMRF
+B3EWK5,reviewed,FAR9_DELRA,FMRFamide-like neuropeptide LPEQDFMRF-amide,,9,LPEQDFMRF
+B3EWK8,reviewed,FAR10_DELRA,FMRFamide-like neuropeptide SAQGQDFMRF-amide,,10,SAQGQDFMRF
+B3EWL0,reviewed,LCK1_DELRA,Leucokinin-like peptide,,15,NSVVLGKKQRFHSWG
+B3EWL1,reviewed,PK1_DELRA,CAPA-Pyrokinin (CAPA-PK) [Cleaved into: CAPA-Pyrokinin(2-15) (CAPA-PK(2-15))],,15,AGPSATTGVWFGPRL
+B3EWL3,reviewed,PVK1_DELRA,CAPA-Periviscerokinin-1 (CAPA-PVK-1),,14,GGGGTSGLFAFPRV
+B3EWL4,reviewed,PVK2_DELRA,CAPA-Periviscerokinin-2 (CAPA-PVK-2),,9,AGLFAQPRL
+B3EWL5,reviewed,PK2_DELRA,HUG-Pyrokinin (HUG-PK),,8,SVQFKPRL
+B3EWL7,reviewed,SNPF1_DELRA,Short neuropeptide F-1 (sNPF-1) (RLRF-amide) [Cleaved into: Short neuropeptide F-1(4-11) (sNPF-1(4-11)) (RLRF-amide(4-11))],,11,AQRSPSLRLRF
+B3EWL8,reviewed,ALLA4_DELRA,Allatostatin-A4 (AST-A4) (LPVYNFGL-amide),,8,LPVYNFGL
+B3EWL9,reviewed,NEMS_DELRA,Myosuppressin (MS) [Cleaved into: Myosuppressin(2-10) (MS(2-10))],,10,TDVDHVFLRF
+B3EWM1,reviewed,CORZ_DELRA,Corazonin [Cleaved into: Corazonin(3-11)],,11,QTFQYSRGWTN
+B3EWM3,reviewed,SK1_DELRA,Sulfakinin [Cleaved into: Sulfakinin(6-14)],,14,GGEEQFDDYGHMRF
+B3EWM5,reviewed,TRP1_DELRA,Tachykinin-related peptide TPTAFYGVR-amide,,9,TPTAFYGVR
+B3EWM6,reviewed,TRP2_DELRA,Tachykinin-related peptide GLGNNAFLGVR-amide,,11,GLGNNAFLGVR
+B3EWM7,reviewed,AKH_DELRA,Adipokinetic hormone (AKH) (Hypertrehalosaemic hormone) (HRTH),,8,QLTFSPDW
+B3EWM8,reviewed,CCHA1_DELRA,Neuropeptide CCHamide-1,,13,SCLEYGHSCWGAH
+B3EWR3,reviewed,3SAW_NAJNA,Cytotoxin NN-32,,10,LKCNKLVPLF
+B3EWS0,reviewed,TLP1A_MANZA,"Thaumatin-like protein 1a (EC 3.2.1.-) (Acidic thaumatin-like protein) (Beta-1,3-glucanase)",,12,ATFDIVNQCTFT
+C0HJH0,reviewed,CELL_ASPVE,"Endo-beta-1,4-glucanase (Endoglucanase) (EC 3.2.1.4) (Carboxymethylcellulase) (Cellulase)",,9,VAAIQTVLG
+C0HJJ8,reviewed,ASPR_TERCL,Alkaline serine protease (AkP) (EC 3.4.21.-),,15,GTQTNAPWGLARLIS
+C0HJL9,reviewed,TAN_BACIU,Tannase (EC 3.1.1.20) (Tannin acylhydrolase),,15,VQPPHSHGDNFYIWT
+C0HJM6,reviewed,CHIT_TRISX,Endochitinase (EC 3.2.1.14) (Chitinase) (allergen Trip s 1),,11,EQGGSQAGGSL
+C0HKA7,reviewed,BRKP3_PHYNA,[Thr6]-phyllokinin,,11,RPPGFTPFRIY
+C0HKA8,reviewed,BRKP4_PHYNA,[Thr6]-bradykinin [Cleaved into: Des-Arg9-[Thr6]-bradykinin],,9,RPPGFTPFR
+C0HKA9,reviewed,BRKP5_PHYNA,"[Val1,Thr6]-bradykinin [Cleaved into: Des-Arg9-[Val1,Thr6]-bradykinin]",,9,VPPGFTPFR
+C0HKB4,reviewed,IBB1A_LATSA,Bowman-Birk type proteinase inhibitor 1a (LSI-1a),,10,GDDVLSACCD
+C0HKK7,reviewed,CAE_XENBM,Caerulein,,10,QQDYTGWMDF
+C0HKM4,reviewed,CAE_XENRU,Caerulein,,10,QQDYTGWMDF
+C0HL05,reviewed,TP1_PELRI,Temporin-1R,,13,FLSGLVGALAKMF
+C0HL41,reviewed,TIN1O_HOPOC,Tigerinin-1O,,12,RICTPIPFPMCY
+C0HL42,reviewed,TIN2O_HOPOC,Tigerinin-2O,,11,RTCIPIPLVMC
+C0HL43,reviewed,TIN3O_HOPOC,Tigerinin-3O,,12,RICTAIPLPMCL
+C0HL44,reviewed,TIN4O_HOPOC,Tigerinin-4O,,11,RTCIPIPPVCF
+C0HLB1,reviewed,ATP5E_YARLI,"ATP synthase subunit epsilon, mitochondrial (ATPase subunit epsilon)",ATP15,10,MSAWMSAGFS
+C0HLK1,reviewed,CA1B_CONBR,Alpha-conotoxin BruIB,,13,DYCCRRPTCIPIC
+C0HLT7,reviewed,BRK_POLOC,Thr6-bradykinin (Bradykinin-related peptide),,9,RPPGFTPFR
+P01016,reviewed,ANGT_HORSE,Angiotensinogen (Serpin A8) [Cleaved into: Angiotensin-1 (Angiotensin 1-10) (Angiotensin I) (Ang I); Angiotensin-2 (Angiotensin 1-8) (Angiotensin II) (Ang II); Angiotensin-3 (Angiotensin 2-8) (Angiotensin III) (Ang III) (Des-Asp[1]-angiotensin II); Angiotensin-4 (Angiotensin 3-8) (Angiotensin IV) (Ang IV); Angiotensin 1-9; Angiotensin 1-7; Angiotensin 1-5; Angiotensin 1-4],AGT SERPINA8,14,DRVYIHPFHLLVYS
+P01022,reviewed,BPPAB_BOTJA,Bradykinin-potentiating peptide 10b (BPP-10b) (Angiotensin-converting enzyme inhibitor V-6-II) (Bradykinin-potentiating peptide V-6-II) [Cleaved into: Bradykinin-potentiating peptide 10b-F (BPP-10b-F)],,10,QNWPRPQIPP
+P01147,reviewed,UTS2_GILMI,Urotensin-2 (Urotensin II) (U-II) (UII),,12,AGTADCFWKYCV
+P01517,reviewed,MAST_POLJO,Mastoparan-J (Polistes mastoparan) (P-MP),,14,VDWKKIGQHILSVL
+P01520,reviewed,CA12_CONGE,Alpha-conotoxin GII,,13,ECCHPACGKHFSC
+P04378,reviewed,GON1_PETMA,Gonadoliberin-1 (Gonadoliberin I) (Gonadotropin-releasing hormone I) (GnRH-I) (Luliberin I),,10,QHYSLEWKPG
+P04428,reviewed,SK1_RHYMA,Sulfakinin-1 (RhyMa-SK-1) (Leucosulfakinin-1) (Leucosulfakinin-I) (LSK-I),,11,EQFEDYGHMRF
+P04558,reviewed,UTS2A_CATCO,Urotensin-2A (Urotensin IIA) (U-IIA) (UIIA),,12,GSGADCFWKYCV
+P04559,reviewed,UTS2B_CATCO,Urotensin-2B (Urotensin IIB) (U-IIB) (UIIB),,12,GSNTECFWKYCV
+P04561,reviewed,UTS2B_CYPCA,Urotensin II-beta (U-II-beta) (UII-beta),,12,GGNTECFWKYCV
+P04562,reviewed,BPP1_GLOHA,Bradykinin-potentiating peptide 1 (BPP-1) (Angiotensin-converting enzyme inhibitor 1),,11,QGRPPGPPIPP
+P05487,reviewed,CONO_CONST,Conopressin-S (Con-S) (Arg-conopressin S),,9,CIIRNCPRG
+P08611,reviewed,TKN_KASSE,Kassinin,,12,DVPKSDQFVGLM
+P08612,reviewed,TKN1_UPERU,Uperolein,,11,QPDPNAFYGLM
+P08613,reviewed,TKN1_PHLMA,"Hylambates kassinin ([Glu2,Pro5]-kassinin)",,12,DEPKPDQFVGLM
+P08616,reviewed,TKN2_UPERU,"Rugosauperolein-2 (Rugosauperolein II) ([Lys5,Thr6]-physalaemin)",,11,QADPKTFYGLM
+P0C0U9,reviewed,HBB2_DRYME,Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain) (Hemoglobin beta-II chain),,10,VHWSAEEKQL
+P0C1W1,reviewed,CA1A_CONMA,Alpha-conotoxin-like MIA,,15,DGRCCHPACAKHFNC
+P0C1W2,reviewed,CA1B_CONMA,Alpha-conotoxin-like MIB,,15,NGRCCHPACARKYNC
+P0C260,reviewed,CMAT_CONPO,Conomap-Vt (Conp-Vt),,14,AFVKGSAQRVAHGY
+P0C2F2,reviewed,CT274_CONMO,Conotoxin Mo1274,,11,GNWCCSARVCC
+P0C2K5,reviewed,BX3_LOXGA,Dermonecrotic toxin LgSicTox-beta-LOXN3 (EC 4.6.1.-) (Phospholipase D) (PLD) (Sphingomyelin phosphodiesterase D) (SMD) (SMase D) (Sphingomyelinase D),,7,ADSRKPI
+P0C2K7,reviewed,X5_LOXGA,Dermonecrotic toxin LgSicTox-LOXN5 (EC 4.6.1.-) (Phospholipase D) (PLD) (Sphingomyelin phosphodiesterase D) (SMD) (SMase D) (Sphingomyelinase D),,8,GDTRRQIL
+P0C2K8,reviewed,X6_LOXGA,Dermonecrotic toxin LgSicTox-LOXN6 (EC 4.6.1.-) (Phospholipase D) (PLD) (Sphingomyelin phosphodiesterase D) (SMD) (SMase D) (Sphingomyelinase D),,7,DDKRRQI
+P0C2K9,reviewed,BX8_LOXGA,Dermonecrotic toxin LgSicTox-beta-LOXN8 (EC 4.6.1.-) (Phospholipase D) (PLD) (Sphingomyelin phosphodiesterase D) (SMD) (SMase D) (Sphingomyelinase D),,9,ADSRKPIWI
+P0C5J7,reviewed,SCXT_PARLS,Insect toxin PlIT,,14,KDGYPVDNANCKYE
+P0C642,reviewed,CT361_CONVR,Conotoxin Vi1361 (Conotoxin Vi1360),,12,QCCPTMPECCRI
+P0C7J7,reviewed,BPP11_BOTAL,Bradykinin-potentiating peptide 11 (BPP-11),,11,QWPDPSSDIPP
+P0C7J8,reviewed,BPP11_BOTJA,Bradykinin-potentiating peptide 11 (BPP-11),,11,QGGAGWPPIPP
+P0C7J9,reviewed,BP11A_CROAD,Bradykinin-potentiating peptide 11a (BPP-11a),,11,QQWPPGHHIPP
+P0C7K0,reviewed,BP11B_CROAD,Bradykinin-potentiating peptide 11b (BPP-11b),,11,QGGWPRNPIPP
+P0C7K1,reviewed,BP11A_CROVV,Bradykinin-potentiating peptide 11a (BPP-11a),,11,QGPSPRHPIPP
+P0C7K2,reviewed,BP11B_CROVV,Bradykinin-potentiating peptide 11b (BPP-11b),,11,QGGAPWNPIPP
+P0C7K3,reviewed,BP11C_CROVV,Bradykinin-potentiating peptide 11c (BPP-11c),,11,QSAPGNEAIPP
+P0C7R6,reviewed,BPPF_AGKPI,Bradykinin-potentiating peptide F (AppF) (BPP-F),,10,QLWPRPHIPP
+P0C7S1,reviewed,BPP2_BOTNU,Bradykinin-potentiating peptide 2 (BPP-2) (BPP-II),,10,EEGGRPPPPI
+P0C7S2,reviewed,BPPDA_BOTNU,Bradykinin-potentiating peptide 13a (BPP-13a) (BPP-III),,13,QGGWPRPGPEIPP
+P0C7S3,reviewed,BPP5_BOTNU,Bradykinin-potentiating peptide 5 (BPP-5) (BPP-V),,11,EEGGSPPPVVI
+P0C7S4,reviewed,BPP9A_BOTNU,Bradykinin-potentiating peptide 9a (BPP-9) (BPP-9a) (BPP-a),,9,QWPRPQIPP
+P0C7S5,reviewed,BPP11_BOTNU,Bradykinin-potentiating peptide 11 (BPP-11),,11,QWPRPTPQIPP
+P0C7S6,reviewed,BPP36_CROAT,Bradykinin-potentiating peptide POL-236 (BPP POL-236),,10,QLWPRPQIPP
+P0C7S7,reviewed,BPPF_PROMU,Bradykinin-potentiating peptide TmF (BPP-TmF),,11,QGRPLGPPIPP
+P0C8I8,reviewed,SL2_BITAR,Snaclec bitiscetin-2,,12,DEGCLPDDSSRT
+P0C8J1,reviewed,SLB_OPHHA,Snaclec ophioluxin subunit beta,,13,GLCCPMRWSSSEG
+P0C8J2,reviewed,SL1C1_VIPAA,Snaclec factor X-activator 1 light chain 1 (VAFXA-I LC1),LC1,13,DFDCPXDWVXYDQ
+P0C8J3,reviewed,SL1C2_VIPAA,Snaclec factor X-activator 1 light chain 2 (VAFXA-I LC2),LC2,11,LFDPPDSXPXY
+P0C8X4,reviewed,VMP_TITST,Venom metalloproteinase (VMP) (EC 3.4.24.-),,15,SPXIIIDYLCVTETX
+P0CF76,reviewed,SCX11_OLIMR,Toxin BmKNJX11,,15,GRDAYIADSENCTYT
+P0CH15,reviewed,CM3A_CONPI,Conotoxin pr3a,,15,CCNWPCSFGCIPCCY
+P0CI22,reviewed,CTA48_CONAO,Chi-conotoxin-like Ar1248 (Conotoxin Ar1232),,12,GVCCGVSFCYPC
+P0CI23,reviewed,CTA11_CONAO,Chi-conotoxin-like Ar1311,,11,RCCGYKMCHPC
+P0CI24,reviewed,TXM46_CONAO,Conotoxin Ar1446 (Conotoxin Ar1430),,14,CCRLACGLGCHPCC
+P0CJ33,reviewed,TXVE1_MACLB,Snake venom vascular endothelial growth factor toxin IC1 (svVEGF) (Increasing capillary-1) (VEGF-F),,13,EVRPFPEVYERIA
+P0CU56,reviewed,ANT_AMAPH,Antamanide (ANT),,10,FFVPPAFFPP
+P0DJK2,reviewed,BPPAD_BOTCO,Bradykinin-potentiating peptide 10d (BPP-10d),,10,QNWPHPPMPP
+P0DJK3,reviewed,BPPAE_BOTCO,Bradykinin-potentiating peptide 10e (BPP-10e),,10,QNWPSPKVPP
+P0DJK4,reviewed,BPPBF_BOTCO,Bradykinin-potentiating peptide 11f (BPP-11f),,11,QNAHPSPKVPP
+P0DJK5,reviewed,BPPAD_BOTFO,Bradykinin-potentiating peptide 10d (BPP-10d),,10,QNWPHPPMPP
+P0DJK6,reviewed,BPPBH_BOTJA,Bradykinin-potentiating peptide 11h (BPP-11h),,11,QGRHPPIPPAP
+P0DJK7,reviewed,BPPAF_BOTFO,Bradykinin-potentiating peptide 10f (BPP-10f),,10,QRWPSPKVPP
+P0DJL6,reviewed,CT5A_CONCN,Tau-conotoxin CnVA (Tau-CnVA),,14,ECCHRQLLCCLRFV
+P0DKT8,reviewed,PA2HB_OXYSA,Neutral phospholipase A2 homolog cannitoxin beta chain 1 (svPLA2 homolog),,10,NLVQFGKMIE
+P0DKZ2,reviewed,BPPCD_BOTCO,Bradykinin-potentiating peptide 12d (BPP-12d),,12,QNWPHPPMPPAP
+P0DKZ3,reviewed,BPP7B_BOTCO,Bradykinin-potentiating peptide 7b (BPP-7b),,7,QNWPSPK
+P0DKZ4,reviewed,BPP8A_BOTCO,Bradykinin-potentiating peptide 8a (BPP-8a),,8,QNAHPSPK
+P0DKZ5,reviewed,BPPCE_BOTCO,Bradykinin-potentiating peptide 12e (BPP-12e),,12,QARPRPGPKIPP
+P0DKZ6,reviewed,BPPDA_BOTCO,Bradykinin-potentiating peptide 13a (BPP-13a),,13,QGGWPRPGPEIPP
+P0DKZ7,reviewed,BPPCD_BOTFO,Bradykinin-potentiating peptide 12d (BPP-12d),,12,QNWPHPPMPPAP
+P0DKZ8,reviewed,BPP7C_BOTFO,Bradykinin-potentiating peptide 7c (BPP-7c),,7,QRWPSPK
+P0DKZ9,reviewed,BPPAP_BOTFO,Bradykinin-potentiating peptide AP (BPP-AP) [Cleaved into: Bradykinin-potentiating peptide 11e (BPP-11e)],,13,QARPPHPPIPPAP
+P0DL00,reviewed,BPPBG_BOTFO,Bradykinin-potentiating peptide 11g (BPP-11g),,11,QARPRHPKIPP
+P0DL01,reviewed,BPPBG_BOTJA,Bradykinin-potentiating peptide 11g (BPP-11g),,11,QARPRHPKIPP
+P0DL02,reviewed,BPPDC_BOTJA,Bradykinin-potentiating peptide 13c (BPP-13c),,13,QGRPPHPPIPPAP
+P0DL03,reviewed,BPPCE_BOTJA,Bradykinin-potentiating peptide 12e (BPP-12e),,12,QARPRPGPKIPP
+P0DL04,reviewed,BPPBI_BOTJA,Bradykinin-potentiating peptide 11i (BPP-11i),,11,QNGPRPIGIPP
+P0DL05,reviewed,BPPBJ_BOTJA,Bradykinin-potentiating peptide 11j (BPP-11j),,11,QNRHPPIPPAP
+P0DL06,reviewed,BPPDD_BOTJA,Bradykinin-potentiating peptide 13d (BPP-13d),,13,QGRAPHPPIPPAP
+P0DL32,reviewed,BRKF_CYPDO,Fulvonin (Bradykinin-related peptide),,11,SIVLRGKAPFR
+P0DM28,reviewed,CRFA3_CONSP,Conorfamide-Sr3 (CNF-Sr3) (Cono-RFamide-Sr3),,15,ATSGPMGWLPVFYRF
+P0DM46,reviewed,VM3A_MICCO,Zinc metalloproteinase-disintegrin-like (EC 3.4.24.-) (Snake venom metalloproteinase) (SVMP),,15,TVTPEQDRYLQVKKY
+P0DM72,reviewed,BRK1_TRICX,Nephilakinin-1 (Nephilakinin-I),,10,GPNPGFSPFR
+P0DM73,reviewed,BRK2_TRICX,Nephilakinin-2 (Nephilakinin-II),,10,EAPPGFSPFR
+P0DM74,reviewed,BRK3_TRICX,Nephilakinin-3 (Nephilakinin-III),,10,PSPPGFSPFR
+P0DMG8,reviewed,OXLA_BOTCO,L-amino-acid oxidase Bco23 (LAAO) (LAO) (EC 1.4.3.2),,15,ADDRNPLEECFRETD
+P0DMH6,reviewed,VSP_BOTFO,Snake venom serine protease (SVSP) (EC 3.4.21.-),,15,IIGGDECNINEHRFL
+P0DMM6,reviewed,SLA_TROWA,Snaclec trowaglerix subunit alpha,,9,FKCMSEWYW
+P0DMM7,reviewed,SLB_TROWA,Snaclec trowaglerix subunit beta,,10,ELCCPMERSS
+P0DO62,reviewed,NO40B_MEDTR,Early nodulin-40-2,ENOD40-2,11,MNLCWQKSIYD
+P0DOZ8,reviewed,M3A_CONAX,Conotoxin Asi3a,,15,CCQWPCSHGCIPCCY
+P0DP11,reviewed,M3C_CONFI,Conotoxin Fi3c,,14,CCSTNCAVCIPCCP
+P0DP13,reviewed,COWB_CONFI,Contryphan-Fib,,8,GCPWMPWC
+P0DP14,reviewed,COWC_CONFI,Contryphan-Fic [Cleaved into: Contryphan-Fid],,8,GCPWDPWC
+P0DP17,reviewed,COWA_CONLE,Contryphan-Le,,8,GCPWEPWC
+P0DP18,reviewed,COW_CONZE,Contryphan-Ze (Z1187),,10,VVGCPWQPWC
+P0DP19,reviewed,COW1_CONBE,Contryphan-Bt (B1187),,10,VVGCPWQPWC
+P0DP20,reviewed,COWA_CONFI,Contryphan-Fia (Fi1187),,10,VVGCPWQPWC
+P0DPJ5,reviewed,CM3G_CONRE,Conotoxin reg3g,,15,CCMALCSRYHCLPCC
+P0DPQ0,reviewed,COW3_CONAO,Contryphan-Ar3 (Ar1286) (Ar1330),,10,QNECPWKPWC
+P0DPQ1,reviewed,COW4_CONAO,Contryphan-Ar4 (Ar1313),,10,ESECPWHPWC
+P0DPQ2,reviewed,COW2_CONFG,Contryphan-Fr2 (Fr965),,8,GCPWDSWC
+P0DQM6,reviewed,CONO1_CONML,Conopressin-M1 (Con-M1),,9,CFPGNCPDS
+P0DQM7,reviewed,CONO2_CONML,Conopressin-M2,,9,CFLGNCPDS
+P0DQN0,reviewed,CX69_CONCB,Conotoxin Cca1669,,14,RDCGKMCEEETWKG
+P0DQQ7,reviewed,CT5A_CONBN,Conotoxin Bn5a (Bn5.1),,10,NGCCIVRECC
+P0DQQ8,reviewed,BPP_CHIQU,Angiotensin-converting enzyme inhibitory peptide (ACE inhibitory peptide),,10,ACPGPNPGRP
+P0DQR7,reviewed,CAIA_CONGE,Alpha-conotoxin GIA,,15,ECCNPACGRHYSCGK
+P0DQU9,reviewed,DIRK1_BUTOC,RK1 peptide (Disintegrin-like peptide),,14,IDCSKVNLTAECSS
+P0DQV5,reviewed,CM3A_CONAC,Conotoxin ArchIIIA (F27-1),,15,CCSALCSRYHCLPCC
+P0DQY1,reviewed,CA1B_CONOB,Alpha-conotoxin OIB (Alpha-conotoxin SI-like),,13,ICCNPACGPKYSC
+P0DQZ0,reviewed,CX1A_CONML,A-conotoxin cyclic Mila (A-CTX-cMila),,7,CHFWVCP
+P0DRA7,reviewed,MAST_MISPH,Mastoparan MP,,14,INWLKLGKKMMSAL
+P0DTB7,reviewed,VM2A_CROAT,Snake venom metalloproteinase CatroxMP-II (SVMP) (EC 3.4.24.-) (Fibrinogenolytic metalloproteinase),,12,NPEHQRYVELFI
+P0DTV3,reviewed,LES_RANLE,Lesueurin,,13,GLLDILKKVGKVA
+P0DUC4,reviewed,COW_CONZO,Contryphan Zo747/Zo763,,7,SPCPFPC
+P0DUC5,reviewed,COW_CONCS,Contryphan Co838/Co854,,6,CWFPWC
+P0DUC6,reviewed,COW44_CONLI,Contryphan Li1044/Li965,,8,GCEWVSWC
+P0DUC7,reviewed,COW81_CONLI,Contryphan Li981,,8,GCEWDSWC
+P0DUC8,reviewed,COW34_CONLI,Contryphan Li834,,7,CYRPPVC
+P0DUQ9,reviewed,COW2_CONIN,Contryphan-In1172,,9,RCPWDPWCN
+P0DUR4,reviewed,CM746_CONIN,Conotoxin In1746 (Conotoxin In1762),,15,CCEWPCHHGCIPCCY
+P0DUU1,reviewed,T1098_CONAA,Conotoxin Am1099,,9,CCQLFVWCC
+P0DUU2,reviewed,T1309_CONAA,Conotoxin Ama1309,,11,CCTPFYFCCNN
+P0DUU4,reviewed,A1245_CONAA,Conotoxin Ama1245 [Cleaved into: Conotoxin Ama1158],,11,SQCCYQICSPC
+P0DV01,reviewed,NBRKB_SCODV,Beta-scoliidine [Cleaved into: Alpha-scoliidine],,14,DYVTVKGFSPLRKA
+P0DV02,reviewed,VKT2L_RADCR,PI-stichotoxin-Hcr2l (PI-SHTX-Hcr2l) (Kunitz-type serine protease inhibitor RmIn II),,15,GSTCLEPKVVGPCKA
+P0DV07,reviewed,VT2K_RADCR,PI-stichotoxin-Hcr2k (PI-SHTX-Hcr2k) (Kunitz-type serine protease inhibitor RmIn I),,15,GICSEPIVVGPCKAG
+P0DV72,reviewed,BPP_BRAEP,Bradykinin-potentiating peptide Brachy (BPP-Brachy) (BPP-BrachyNH2) (Proline-rich oligopeptide) (PRO) (Proline-rich peptide),,8,WPPPKVSP
+P0DW50,reviewed,CAMP_CAMAN,Beta-campsomerin (Bradykinin-related peptide) [Cleaved into: Alpha-campsomerin],,15,PRLRRLTGLSPLRAP
+P0DW51,reviewed,ANNU_CAMAN,Annulatin (Linear alpha-helical peptide),,11,ISEALKSIIVG
+P0DX33,reviewed,MAST3_EUMMI,Eumenine mastoparan-EM3 (EMP-EM3),,14,FDLLGLLKKVVSGL
+P0DX34,reviewed,MAST4_EUMMI,Eumenine mastoparan-EM4 (EMP-EM4),,14,FDLGMLVKKVLAGL
+P0DX35,reviewed,MAST1_POLRT,Polistes mastoparan-R1 (Pm-R1),,14,INWLKLGKKILGAI
+P0DX36,reviewed,MAST2_POLRT,Polistes-mastoparan-R2 (Pm-R2),,14,LNFKALAALAKKIL
+P0DX37,reviewed,MAST3_POLRT,Polistes-mastoparan-R3 (Pm-R3),,14,INWLKLGKKILGAI
+P0DX38,reviewed,PROT_POLRT,Polistes-protonectin,,12,ILSALLGLLKSL
+P0DX46,reviewed,MAST8_AGEVI,Agelaiatoxin-8 (AVTx8),,14,INWKKLGKALNALL
+P0DX55,reviewed,PPNP7_POLPI,Peptide Ppnp7 (Neuropolybin),,9,EQWQPQLHR
+P0DX65,reviewed,O1202_POLOC,Occidentalin-1202,,9,EQYMVAFWM
+P11496,reviewed,CORZ_PERAM,Corazonin,,11,QTFQYSRGWTN
+P12509,reviewed,TAT_HV1W2,Protein Tat (Transactivating regulatory protein),,14,PTSQPRGDPTGPKE
+P12511,reviewed,TAT_HV1Z8,Protein Tat (Transactivating regulatory protein),,14,PSSQPRGDPTGPKE
+P12797,reviewed,BRK_MEGFL,Megascoliakinin (MBK) (Thr6-bradykinin-Lys-Ala) [Cleaved into: Thr6-bradykinin (Bradykinin-like peptide) (Bradykinin-related peptide)],,11,RPPGFTPFRKA
+P12801,reviewed,FIBA_ANAPL,Fibrinogen alpha chain [Cleaved into: Fibrinopeptide A],FGA,15,QDGKSSFQKEGGGVR
+P14405,reviewed,XYLA_STRVN,Xylose isomerase (EC 5.3.1.5),xylA,12,GVTFHDDDLIPF
+P14472,reviewed,FIBB_HYLLA,Fibrinogen beta chain [Cleaved into: Fibrinopeptide B],FGB,13,QGVBBBZGLFSAR
+P14474,reviewed,FIBB_MANLE,Fibrinogen beta chain [Cleaved into: Fibrinopeptide B],FGB,14,QGVBGBEEGLFGGR
+P14595,reviewed,AKH_TABAT,Adipokinetic hormone (AKH) (Dipteran corpora cardiaca factor I) (DCC I),,8,QLTFTPGW
+P14596,reviewed,HTF_TABAT,Hypertrehalosaemic factor (Dipteran corpora cardiaca factor II) (DCC II) (HOTH),,10,QLTFTPGWGY
+P16101,reviewed,CHOX_ALCSP,Choline oxidase (EC 1.1.3.17),,7,DNPNHSR
+P16339,reviewed,DNF1_LOCMI,Locupressin (Diuretic neuropeptide F1/F2),,9,CLITNCPRG
+P17231,reviewed,CRBL_VESTR,Vespid chemotactic peptide T (VESCP-T) (Ves-CP-T),,13,FLPILGKILGGLL
+P17233,reviewed,CRBL_VESAN,Vespid chemotactic peptide A (VESCP-A),,13,FLPMIAKLLGGLL
+P17235,reviewed,CRBL_VESLE,Vespid chemotactic peptide L (VESCP-L) (Ves-CP-L),,13,FLPIIAKLVSGLL
+P17236,reviewed,CRBL_VESOR,Histamine-releasing peptide 2 (HR-2) (HR2) (Histamine-releasing peptide II) (HR-II) (HRII) (Mast cell degranulating peptide HR2) (MCD HR2),,14,FLPLILGKLVKGLL
+P17237,reviewed,PROTO_ICASP,Chemotactic peptide (I-CP),,13,IVPFLGPLLGLLT
+P18110,reviewed,HTF1_ROMMI,RO-1 (Hypertrehalosaemic factor) (RO I),,10,QVNFTPNWGT
+P19118,reviewed,TPIS_NICPL,"Triosephosphate isomerase, cytosolic (TIM) (Triose-phosphate isomerase) (EC 5.3.1.1)",,10,GRTFFVGGNW
+P19149,reviewed,XYLA_STRS8,Xylose isomerase (EC 5.3.1.5),xylA,9,RHAGSAHTF
+P19850,reviewed,TKNA_CHICK,Substance P,,11,RPRPQQFFGLM
+P20304,reviewed,IDHC_PIG,Isocitrate dehydrogenase [NADP] cytoplasmic (IDH) (EC 1.1.1.42) (Cytosolic NADP-isocitrate dehydrogenase) (IDP) (NADP(+)-specific ICDH) (Oxalosuccinate decarboxylase),IDH1,13,DLAGEIHGLSNVK
+P22948,reviewed,MCRA_METTE,Methyl-coenzyme M reductase subunit alpha (EC 2.8.4.1) (Coenzyme-B sulfoethylthiotransferase alpha),,15,AADIFAKFKTSMEVK
+P25013,reviewed,GLPK_STRGR,Glycerol kinase (EC 2.7.1.30) (ATP:glycerol 3-phosphotransferase) (Glycerokinase) (GK),glpK gylA,14,MSSSHIFIGETIGT
+P27429,reviewed,GONL_SQUAC,Gonadoliberin (Gonadotropin-releasing hormone) (GnRH) (LH-RH) (Luliberin),,10,QHWSHGWLPG
+P28525,reviewed,GER1_HORVU,Germin GS1,,13,YDPSPLQDFCVAD
+P28526,reviewed,GER2_HORVU,Germin GS2,,13,YDPSPLQDFCIAD
+P28878,reviewed,CA1A_CONST,Alpha-conotoxin SIA (S1A),,13,YCCHPACGKNFDC
+P29177,reviewed,MGMT_BOVIN,Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63) (6-O-methylguanine-DNA methyltransferase) (MGMT) (O-6-methylguanine-DNA-alkyltransferase),MGMT,9,NPIPILTPC
+P30424,reviewed,BPP4_BOTIN,"Bradykinin-potentiating peptide S4,1,2 (BPP) (Angiotensin-converting enzyme inhibitor)",,11,QGGPPRPQIPP
+P30426,reviewed,BPP8_BOTIN,"Bradykinin-potentiating peptide S5,1 (BPP) (Angiotensin-converting enzyme inhibitor)",,10,QWGQHPNIPP
+P30948,reviewed,GON3_PETMA,Gonadoliberin-3 (Gonadoliberin III) (Gonadotropin-releasing hormone III) (GnRH-III) (Luliberin III),,10,QHWSHDWKPG
+P31351,reviewed,BPP_VIPAS,Bradykinin-potentiating peptide (BPP) (Angiotensin-converting enzyme inhibitor),,10,QGWPGPKVPP
+P31745,reviewed,NEUT_TRIVU,Neurotensin (NT),NTS,13,QLHVNKARRVYIL
+P32560,reviewed,NEUT_CAVPO,Neurotensin (NT),NTS,13,QLYENKSRRPYIL
+P35490,reviewed,UTS2_SCYCA,Urotensin-2 (Urotensin II) (U-II) (UII),,12,NNFSDCFWKYCV
+P36885,reviewed,SK1_PERAM,Sulfakinin-1 (PerAm-SK-1) (Perisulfakinin) (Pea-SK-I),,11,EQFDDYGHMRF
+P37041,reviewed,GON1_ALLMI,Gonadoliberin-1 (Gonadoliberin I) (Gonadotropin-releasing hormone I) (GnRH-I) (LH-RH I) (Luliberin I),,10,QHWSYGLQPG
+P41841,reviewed,ALL5_CALVO,Callatostatin-5 (Met-callatostatin-1) ([Hyp3]Met-callatostatin),,8,GPPYDFGM
+P42559,reviewed,ALLS_MANSE,Allatostatin (Mas-AS),,15,QVRFRQCYFNPISCF
+P42716,reviewed,MAST_PARID,Parapolybia-mastoparan (Parapolybia-MP),,14,INWKKMAATALKMI
+P42717,reviewed,BRK_PARID,Waspkinin (Bradykinin-related peptide),,13,QZKRPPGFSPFRK
+P42986,reviewed,TKN1_PSEGU,Kassinin-like peptide K-I (PG-KI),,11,QPHPDEFVGLM
+P42987,reviewed,TKN2_PSEGU,Kassinin-like peptide K-II (PG-KII),,11,QPNPDEFVGLM
+P42988,reviewed,TKN3_PSEGU,Kassinin-like peptide K-III (PG-KIII),,11,QPHPNEFVGLM
+P42989,reviewed,TKN4_PSEGU,Substance P-like peptide 1 (PG-SPI),,11,QPNPDEFFGLM
+P42990,reviewed,TKN5_PSEGU,Substance P-like peptide 2 (PG-SPII),,11,QPNPNEFFGLM
+P42993,reviewed,ISOT_CYPCA,Isotocin,,9,CYISNCPIG
+P42994,reviewed,OXYT_RAJCL,Glumitocin,,9,CYISNCPQG
+P42995,reviewed,OXYT_SCLRE,"Seritocin ([Ser5,Ile8]-oxytocin)",,9,CYIQSCPIG
+P42996,reviewed,OXYA_SCYCA,Asvatocin,,9,CYINNCPVG
+P42997,reviewed,OXYF_SCYCA,Phasvatocin,,9,CYFNNCPVG
+P42998,reviewed,OXYT_EISFE,Annetocin,,9,CFVRNCPTG
+P49818,reviewed,CH60_CANLF,"60 kDa heat shock protein, mitochondrial (EC 5.6.1.7) (60 kDa chaperonin) (Chaperonin 60) (CPN60) (Heat shock protein 60) (HSP-60) (Hsp60)",HSPD1 HSP60,13,AKDVXFGXDARAL
+P49823,reviewed,ODPA_CANLF,"Pyruvate dehydrogenase E1 component subunit alpha, somatic form (EC 1.2.4.1) (PDHE1-A type I)",PDHA1,13,XXDATFEIKKXDL
+P54836,reviewed,IDH3A_CANLF,"Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial (EC 1.1.1.41) (Isocitric dehydrogenase subunit alpha) (NAD(+)-specific ICDH subunit alpha)",IDH3A,13,AIEVQTVTLIPGD
+P56247,reviewed,CDN2_RANGI,Caeridin-2,,15,GLLDVVGNLLGGLGL
+P56248,reviewed,CDN3_RANGI,Caeridin-3,,15,GLFDAIGNLLGGLGL
+P56264,reviewed,CAER_RANXA,Caerulein,,10,QQDYTGWMDF
+P56920,reviewed,TPE_RANTE,Temporin-1Te (TE) (Temporin-E),,13,VLPIIGNLLNSLL
+P58623,reviewed,M3A_CONBE,Conotoxin BtIIIA (BeTXIa),,14,CCKQSCTTCMPCCW
+P58624,reviewed,M3B_CONBE,BtIIIB (Conotoxin BeTXIb),,15,CCELPCHGCVPCCWP
+P58763,reviewed,CKX_WHEAT,Cytokinin dehydrogenase (EC 1.5.99.12) (Cytokinin oxidase) (CKO) (CKX),,15,FLPKSLFTLVTDKSL
+P58785,reviewed,COWL_CONPU,Leu-contryphan-P,,8,GCVLLPWC
+P58803,reviewed,BRHP_CONIM,Bromoheptapeptide Im,,7,QCGQAWC
+P58805,reviewed,CRFA1_CONSP,Conorfamide-Sr1 (CNF-Sr1) (Cono-RFamide-Sr1),,12,GPMGWVPVFYRF
+P58807,reviewed,CTA6A_CONMR,Chi-conotoxin CMrVIA (Conotoxin CMrVIA) (Lambda-conotoxin CMrVIA),,11,VCCGYKLCHPC
+P58841,reviewed,M3A_CONQU,Conotoxin QcIIIA,,15,CCSQDCLVCIPCCPN
+P58848,reviewed,CT5A_CONAL,Conotoxin au5a,,11,FCCPFIRYCCW
+P59072,reviewed,3S331_PSETE,Short neurotoxin N1 (Alpha-neurotoxin),,11,LTCYKGYRDTV
+P59073,reviewed,3S332_PSETE,Short neurotoxin N2 (Alpha-neurotoxin),,15,LTCYKGYHDTVVCKP
+P60316,reviewed,HOOK3_BOVIN,Protein Hook homolog 3,HOOK3,12,VELQNRLSDESQ
+P61856,reviewed,AKH_PROTE,Adipokinetic hormone (AKH) (Hypertrehalosaemic hormone) (HRTH),AKH,8,QLTFSPDW
+P62540,reviewed,CAE12_RANCI,Caerulein-1.2/1.2Y4,,10,QQDYTGWFDF
+P62541,reviewed,CAE12_RANSP,Caerulein-1.2,,10,QQDYTGWFDF
+P62564,reviewed,CDN11_RANXA,Caeridin-1.1/1.2/1.3,,12,GLLDGLLGTLGL
+P62565,reviewed,CDN11_RANSP,Caeridin-1.1/1.2/1.3,,12,GLLDGLLGTLGL
+P62566,reviewed,CDN11_RANGI,Caeridin-1.1/1.2/1.3,,12,GLLDGLLGTLGL
+P62582,reviewed,CDN14_RANXA,Caeridin-1.4,,12,GLLDGLLGGLGL
+P67786,reviewed,AKH_ROMMI,Adipokinetic hormone (AKH) (RO II),,8,QVNFSTGW
+P67787,reviewed,AKH_HELZE,Adipokinetic hormone (Hez-AKH),,9,QLTFTSSWG
+P67789,reviewed,HTF_TENMO,Hypertrehalosaemic factor (HOTH) (Hypertrehalosaemic neuropeptide),,8,QLNFSPNW
+P67790,reviewed,HTF_ZOPAT,Hypertrehalosaemic factor (HOTH) (Hypertrehalosaemic neuropeptide),,8,QLNFSPNW
+P67803,reviewed,LSK2_PERAM,Leucosulfakinin-2 (Leucosulfakinin-II) (LSK-II),,10,QSDDYGHMRF
+P67932,reviewed,TKNA_CAVPO,Substance P,TAC1 NKA NKNA TAC2,11,RPKPQQFFGLM
+P67933,reviewed,TKNA_HORSE,Substance P,TAC1 NKA NKNA TAC2,11,RPKPQQFFGLM
+P68072,reviewed,GON2_CHICK,Gonadoliberin-2 (Gonadoliberin II) (Gonadotropin-releasing hormone II) (GnRH-II) (Luliberin II) (Luteinizing hormone-releasing hormone II) (LH-RH II),GNRH2,10,QHWSHGWYPG
+P68073,reviewed,GON2_ALLMI,Gonadoliberin-2 (Gonadoliberin II) (Gonadotropin-releasing hormone II) (GnRH-II) (Luliberin II) (Luteinizing hormone-releasing hormone II) (LH-RH II),GNRH2,10,QHWSHGWYPG
+P68074,reviewed,GON2_SQUAC,Gonadoliberin-2 (Gonadoliberin II) (Gonadotropin-releasing hormone II) (GnRH-II) (Luliberin II) (Luteinizing hormone-releasing hormone II) (LH-RH II),gnrh2,10,QHWSHGWYPG
+P68075,reviewed,GON2_CLUPA,Gonadoliberin-2 (Gonadoliberin II) (Gonadotropin-releasing hormone II) (GnRH-II) (Luliberin II) (Luteinizing hormone-releasing hormone II) (LH-RH II),gnrh2,10,QHWSHGWYPG
+P68076,reviewed,GON2_HYDCO,Gonadoliberin-2 (Gonadoliberin II) (Gonadotropin-releasing hormone II) (GnRH-II) (Luliberin II) (Luteinizing hormone-releasing hormone II) (LH-RH II),gnrh2,10,QHWSHGWYPG
+P69034,reviewed,MAST1_PROEX,Protopolybia-mastoparan-I (Protopolybia-MP-I) (Protopolybia-MPI),,14,INWLKLGKKVSAIL
+P69035,reviewed,MAST2_PROEX,Protopolybia-mastoparan-II (Protopolybia-MP-II) (Protopolybia-MPII),,14,INWKAIIEAAKQAL
+P69036,reviewed,MAST3_PROEX,Protopolybia-mastoparan-III (Protopolybia-MP-III) (Protopolybia-MPIII),,14,INWLKLGKAVIDAL
+P69043,reviewed,NEU1_RABIT,Oxytocin (Ocytocin),OXT,9,CYIQNCPLG
+P69056,reviewed,NEU1_BALPH,Oxytocin (Ocytocin),OXT,9,CYIQNCPLG
